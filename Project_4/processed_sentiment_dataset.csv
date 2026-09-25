@@ -1,0 +1,964 @@
+OrderID,Product,OrderStatus,text,clean_text,Sentiment
+ORD200000,Monitor,Shipped,I ordered a Monitor and the order was Shipped. Payment was made using Debit Card.,order monitor order ship payment make use debit card,Positive
+ORD200001,Phone,Shipped,I ordered a Phone and the order was Shipped. Payment was made using Online.,order phone order ship payment make use online,Positive
+ORD200002,Tablet,Cancelled,I ordered a Tablet and the order was Cancelled. Payment was made using Credit Card.,order tablet order cancel payment make use credit card,Negative
+ORD200003,Chair,Returned,I ordered a Chair and the order was Returned. Payment was made using Debit Card.,order chair order return payment make use debit card,Negative
+ORD200004,Printer,Delivered,I ordered a Printer and the order was Delivered. Payment was made using Online.,order printer order deliver payment make use online,Positive
+ORD200005,Phone,Shipped,I ordered a Phone and the order was Shipped. Payment was made using Credit Card.,order phone order ship payment make use credit card,Positive
+ORD200006,Laptop,Returned,I ordered a Laptop and the order was Returned. Payment was made using Gift Card.,order laptop order return payment make use gift card,Negative
+ORD200007,Monitor,Shipped,I ordered a Monitor and the order was Shipped. Payment was made using Cash.,order monitor order ship payment make use cash,Positive
+ORD200008,Phone,Cancelled,I ordered a Phone and the order was Cancelled. Payment was made using Gift Card.,order phone order cancel payment make use gift card,Negative
+ORD200009,Desk,Shipped,I ordered a Desk and the order was Shipped. Payment was made using Credit Card.,order desk order ship payment make use credit card,Positive
+ORD200010,Tablet,Returned,I ordered a Tablet and the order was Returned. Payment was made using Credit Card.,order tablet order return payment make use credit card,Negative
+ORD200011,Monitor,Returned,I ordered a Monitor and the order was Returned. Payment was made using Online.,order monitor order return payment make use online,Negative
+ORD200013,Laptop,Returned,I ordered a Laptop and the order was Returned. Payment was made using Credit Card.,order laptop order return payment make use credit card,Negative
+ORD200015,Printer,Delivered,I ordered a Printer and the order was Delivered. Payment was made using Cash.,order printer order deliver payment make use cash,Positive
+ORD200017,Tablet,Shipped,I ordered a Tablet and the order was Shipped. Payment was made using Debit Card.,order tablet order ship payment make use debit card,Positive
+ORD200019,Monitor,Returned,I ordered a Monitor and the order was Returned. Payment was made using Cash.,order monitor order return payment make use cash,Negative
+ORD200021,Monitor,Delivered,I ordered a Monitor and the order was Delivered. Payment was made using Cash.,order monitor order deliver payment make use cash,Positive
+ORD200023,Phone,Cancelled,I ordered a Phone and the order was Cancelled. Payment was made using Debit Card.,order phone order cancel payment make use debit card,Negative
+ORD200024,Laptop,Delivered,I ordered a Laptop and the order was Delivered. Payment was made using Online.,order laptop order deliver payment make use online,Positive
+ORD200025,Monitor,Delivered,I ordered a Monitor and the order was Delivered. Payment was made using Debit Card.,order monitor order deliver payment make use debit card,Positive
+ORD200026,Laptop,Delivered,I ordered a Laptop and the order was Delivered. Payment was made using Online.,order laptop order deliver payment make use online,Positive
+ORD200027,Printer,Shipped,I ordered a Printer and the order was Shipped. Payment was made using Online.,order printer order ship payment make use online,Positive
+ORD200029,Desk,Delivered,I ordered a Desk and the order was Delivered. Payment was made using Credit Card.,order desk order deliver payment make use credit card,Positive
+ORD200031,Chair,Returned,I ordered a Chair and the order was Returned. Payment was made using Debit Card.,order chair order return payment make use debit card,Negative
+ORD200032,Tablet,Delivered,I ordered a Tablet and the order was Delivered. Payment was made using Cash.,order tablet order deliver payment make use cash,Positive
+ORD200033,Chair,Cancelled,I ordered a Chair and the order was Cancelled. Payment was made using Online.,order chair order cancel payment make use online,Negative
+ORD200035,Monitor,Shipped,I ordered a Monitor and the order was Shipped. Payment was made using Online.,order monitor order ship payment make use online,Positive
+ORD200037,Laptop,Returned,I ordered a Laptop and the order was Returned. Payment was made using Cash.,order laptop order return payment make use cash,Negative
+ORD200038,Laptop,Delivered,I ordered a Laptop and the order was Delivered. Payment was made using Debit Card.,order laptop order deliver payment make use debit card,Positive
+ORD200039,Printer,Delivered,I ordered a Printer and the order was Delivered. Payment was made using Credit Card.,order printer order deliver payment make use credit card,Positive
+ORD200040,Desk,Delivered,I ordered a Desk and the order was Delivered. Payment was made using Online.,order desk order deliver payment make use online,Positive
+ORD200042,Printer,Cancelled,I ordered a Printer and the order was Cancelled. Payment was made using Cash.,order printer order cancel payment make use cash,Negative
+ORD200043,Chair,Cancelled,I ordered a Chair and the order was Cancelled. Payment was made using Online.,order chair order cancel payment make use online,Negative
+ORD200044,Phone,Returned,I ordered a Phone and the order was Returned. Payment was made using Gift Card.,order phone order return payment make use gift card,Negative
+ORD200045,Chair,Returned,I ordered a Chair and the order was Returned. Payment was made using Debit Card.,order chair order return payment make use debit card,Negative
+ORD200047,Desk,Returned,I ordered a Desk and the order was Returned. Payment was made using Credit Card.,order desk order return payment make use credit card,Negative
+ORD200048,Monitor,Shipped,I ordered a Monitor and the order was Shipped. Payment was made using Debit Card.,order monitor order ship payment make use debit card,Positive
+ORD200049,Printer,Shipped,I ordered a Printer and the order was Shipped. Payment was made using Credit Card.,order printer order ship payment make use credit card,Positive
+ORD200050,Tablet,Cancelled,I ordered a Tablet and the order was Cancelled. Payment was made using Online.,order tablet order cancel payment make use online,Negative
+ORD200051,Tablet,Returned,I ordered a Tablet and the order was Returned. Payment was made using Cash.,order tablet order return payment make use cash,Negative
+ORD200052,Tablet,Returned,I ordered a Tablet and the order was Returned. Payment was made using Online.,order tablet order return payment make use online,Negative
+ORD200053,Phone,Returned,I ordered a Phone and the order was Returned. Payment was made using Online.,order phone order return payment make use online,Negative
+ORD200055,Printer,Cancelled,I ordered a Printer and the order was Cancelled. Payment was made using Online.,order printer order cancel payment make use online,Negative
+ORD200056,Tablet,Cancelled,I ordered a Tablet and the order was Cancelled. Payment was made using Cash.,order tablet order cancel payment make use cash,Negative
+ORD200057,Printer,Returned,I ordered a Printer and the order was Returned. Payment was made using Cash.,order printer order return payment make use cash,Negative
+ORD200058,Phone,Cancelled,I ordered a Phone and the order was Cancelled. Payment was made using Gift Card.,order phone order cancel payment make use gift card,Negative
+ORD200059,Chair,Shipped,I ordered a Chair and the order was Shipped. Payment was made using Online.,order chair order ship payment make use online,Positive
+ORD200060,Desk,Returned,I ordered a Desk and the order was Returned. Payment was made using Debit Card.,order desk order return payment make use debit card,Negative
+ORD200061,Desk,Delivered,I ordered a Desk and the order was Delivered. Payment was made using Cash.,order desk order deliver payment make use cash,Positive
+ORD200063,Chair,Shipped,I ordered a Chair and the order was Shipped. Payment was made using Debit Card.,order chair order ship payment make use debit card,Positive
+ORD200064,Printer,Cancelled,I ordered a Printer and the order was Cancelled. Payment was made using Debit Card.,order printer order cancel payment make use debit card,Negative
+ORD200065,Monitor,Delivered,I ordered a Monitor and the order was Delivered. Payment was made using Credit Card.,order monitor order deliver payment make use credit card,Positive
+ORD200066,Chair,Cancelled,I ordered a Chair and the order was Cancelled. Payment was made using Cash.,order chair order cancel payment make use cash,Negative
+ORD200067,Printer,Cancelled,I ordered a Printer and the order was Cancelled. Payment was made using Debit Card.,order printer order cancel payment make use debit card,Negative
+ORD200069,Monitor,Shipped,I ordered a Monitor and the order was Shipped. Payment was made using Online.,order monitor order ship payment make use online,Positive
+ORD200072,Tablet,Returned,I ordered a Tablet and the order was Returned. Payment was made using Gift Card.,order tablet order return payment make use gift card,Negative
+ORD200073,Monitor,Cancelled,I ordered a Monitor and the order was Cancelled. Payment was made using Gift Card.,order monitor order cancel payment make use gift card,Negative
+ORD200075,Tablet,Delivered,I ordered a Tablet and the order was Delivered. Payment was made using Debit Card.,order tablet order deliver payment make use debit card,Positive
+ORD200076,Laptop,Cancelled,I ordered a Laptop and the order was Cancelled. Payment was made using Cash.,order laptop order cancel payment make use cash,Negative
+ORD200077,Phone,Returned,I ordered a Phone and the order was Returned. Payment was made using Credit Card.,order phone order return payment make use credit card,Negative
+ORD200078,Printer,Delivered,I ordered a Printer and the order was Delivered. Payment was made using Debit Card.,order printer order deliver payment make use debit card,Positive
+ORD200079,Tablet,Shipped,I ordered a Tablet and the order was Shipped. Payment was made using Online.,order tablet order ship payment make use online,Positive
+ORD200080,Phone,Returned,I ordered a Phone and the order was Returned. Payment was made using Online.,order phone order return payment make use online,Negative
+ORD200081,Monitor,Shipped,I ordered a Monitor and the order was Shipped. Payment was made using Cash.,order monitor order ship payment make use cash,Positive
+ORD200082,Tablet,Shipped,I ordered a Tablet and the order was Shipped. Payment was made using Debit Card.,order tablet order ship payment make use debit card,Positive
+ORD200083,Laptop,Cancelled,I ordered a Laptop and the order was Cancelled. Payment was made using Credit Card.,order laptop order cancel payment make use credit card,Negative
+ORD200084,Monitor,Shipped,I ordered a Monitor and the order was Shipped. Payment was made using Online.,order monitor order ship payment make use online,Positive
+ORD200085,Tablet,Delivered,I ordered a Tablet and the order was Delivered. Payment was made using Cash.,order tablet order deliver payment make use cash,Positive
+ORD200086,Printer,Cancelled,I ordered a Printer and the order was Cancelled. Payment was made using Online.,order printer order cancel payment make use online,Negative
+ORD200087,Tablet,Shipped,I ordered a Tablet and the order was Shipped. Payment was made using Cash.,order tablet order ship payment make use cash,Positive
+ORD200088,Desk,Cancelled,I ordered a Desk and the order was Cancelled. Payment was made using Gift Card.,order desk order cancel payment make use gift card,Negative
+ORD200089,Printer,Cancelled,I ordered a Printer and the order was Cancelled. Payment was made using Credit Card.,order printer order cancel payment make use credit card,Negative
+ORD200090,Chair,Delivered,I ordered a Chair and the order was Delivered. Payment was made using Gift Card.,order chair order deliver payment make use gift card,Positive
+ORD200091,Laptop,Shipped,I ordered a Laptop and the order was Shipped. Payment was made using Cash.,order laptop order ship payment make use cash,Positive
+ORD200092,Printer,Shipped,I ordered a Printer and the order was Shipped. Payment was made using Online.,order printer order ship payment make use online,Positive
+ORD200093,Desk,Returned,I ordered a Desk and the order was Returned. Payment was made using Credit Card.,order desk order return payment make use credit card,Negative
+ORD200094,Chair,Returned,I ordered a Chair and the order was Returned. Payment was made using Gift Card.,order chair order return payment make use gift card,Negative
+ORD200095,Printer,Returned,I ordered a Printer and the order was Returned. Payment was made using Debit Card.,order printer order return payment make use debit card,Negative
+ORD200096,Phone,Delivered,I ordered a Phone and the order was Delivered. Payment was made using Gift Card.,order phone order deliver payment make use gift card,Positive
+ORD200099,Printer,Cancelled,I ordered a Printer and the order was Cancelled. Payment was made using Debit Card.,order printer order cancel payment make use debit card,Negative
+ORD200100,Phone,Delivered,I ordered a Phone and the order was Delivered. Payment was made using Online.,order phone order deliver payment make use online,Positive
+ORD200101,Printer,Shipped,I ordered a Printer and the order was Shipped. Payment was made using Cash.,order printer order ship payment make use cash,Positive
+ORD200102,Laptop,Cancelled,I ordered a Laptop and the order was Cancelled. Payment was made using Gift Card.,order laptop order cancel payment make use gift card,Negative
+ORD200103,Phone,Cancelled,I ordered a Phone and the order was Cancelled. Payment was made using Credit Card.,order phone order cancel payment make use credit card,Negative
+ORD200104,Phone,Delivered,I ordered a Phone and the order was Delivered. Payment was made using Gift Card.,order phone order deliver payment make use gift card,Positive
+ORD200105,Printer,Cancelled,I ordered a Printer and the order was Cancelled. Payment was made using Gift Card.,order printer order cancel payment make use gift card,Negative
+ORD200106,Desk,Cancelled,I ordered a Desk and the order was Cancelled. Payment was made using Credit Card.,order desk order cancel payment make use credit card,Negative
+ORD200107,Printer,Shipped,I ordered a Printer and the order was Shipped. Payment was made using Gift Card.,order printer order ship payment make use gift card,Positive
+ORD200108,Laptop,Delivered,I ordered a Laptop and the order was Delivered. Payment was made using Gift Card.,order laptop order deliver payment make use gift card,Positive
+ORD200109,Desk,Shipped,I ordered a Desk and the order was Shipped. Payment was made using Gift Card.,order desk order ship payment make use gift card,Positive
+ORD200111,Desk,Cancelled,I ordered a Desk and the order was Cancelled. Payment was made using Online.,order desk order cancel payment make use online,Negative
+ORD200112,Monitor,Cancelled,I ordered a Monitor and the order was Cancelled. Payment was made using Online.,order monitor order cancel payment make use online,Negative
+ORD200113,Laptop,Shipped,I ordered a Laptop and the order was Shipped. Payment was made using Cash.,order laptop order ship payment make use cash,Positive
+ORD200115,Phone,Shipped,I ordered a Phone and the order was Shipped. Payment was made using Online.,order phone order ship payment make use online,Positive
+ORD200116,Printer,Cancelled,I ordered a Printer and the order was Cancelled. Payment was made using Credit Card.,order printer order cancel payment make use credit card,Negative
+ORD200117,Tablet,Cancelled,I ordered a Tablet and the order was Cancelled. Payment was made using Gift Card.,order tablet order cancel payment make use gift card,Negative
+ORD200118,Printer,Shipped,I ordered a Printer and the order was Shipped. Payment was made using Gift Card.,order printer order ship payment make use gift card,Positive
+ORD200119,Desk,Shipped,I ordered a Desk and the order was Shipped. Payment was made using Debit Card.,order desk order ship payment make use debit card,Positive
+ORD200120,Tablet,Cancelled,I ordered a Tablet and the order was Cancelled. Payment was made using Cash.,order tablet order cancel payment make use cash,Negative
+ORD200121,Desk,Cancelled,I ordered a Desk and the order was Cancelled. Payment was made using Cash.,order desk order cancel payment make use cash,Negative
+ORD200122,Laptop,Shipped,I ordered a Laptop and the order was Shipped. Payment was made using Gift Card.,order laptop order ship payment make use gift card,Positive
+ORD200123,Desk,Delivered,I ordered a Desk and the order was Delivered. Payment was made using Online.,order desk order deliver payment make use online,Positive
+ORD200125,Phone,Shipped,I ordered a Phone and the order was Shipped. Payment was made using Credit Card.,order phone order ship payment make use credit card,Positive
+ORD200126,Desk,Shipped,I ordered a Desk and the order was Shipped. Payment was made using Gift Card.,order desk order ship payment make use gift card,Positive
+ORD200127,Desk,Shipped,I ordered a Desk and the order was Shipped. Payment was made using Debit Card.,order desk order ship payment make use debit card,Positive
+ORD200128,Tablet,Delivered,I ordered a Tablet and the order was Delivered. Payment was made using Gift Card.,order tablet order deliver payment make use gift card,Positive
+ORD200129,Laptop,Shipped,I ordered a Laptop and the order was Shipped. Payment was made using Debit Card.,order laptop order ship payment make use debit card,Positive
+ORD200130,Desk,Cancelled,I ordered a Desk and the order was Cancelled. Payment was made using Online.,order desk order cancel payment make use online,Negative
+ORD200132,Tablet,Shipped,I ordered a Tablet and the order was Shipped. Payment was made using Credit Card.,order tablet order ship payment make use credit card,Positive
+ORD200133,Chair,Cancelled,I ordered a Chair and the order was Cancelled. Payment was made using Debit Card.,order chair order cancel payment make use debit card,Negative
+ORD200135,Printer,Shipped,I ordered a Printer and the order was Shipped. Payment was made using Gift Card.,order printer order ship payment make use gift card,Positive
+ORD200136,Laptop,Cancelled,I ordered a Laptop and the order was Cancelled. Payment was made using Gift Card.,order laptop order cancel payment make use gift card,Negative
+ORD200137,Monitor,Delivered,I ordered a Monitor and the order was Delivered. Payment was made using Credit Card.,order monitor order deliver payment make use credit card,Positive
+ORD200139,Phone,Returned,I ordered a Phone and the order was Returned. Payment was made using Cash.,order phone order return payment make use cash,Negative
+ORD200140,Chair,Delivered,I ordered a Chair and the order was Delivered. Payment was made using Online.,order chair order deliver payment make use online,Positive
+ORD200141,Printer,Cancelled,I ordered a Printer and the order was Cancelled. Payment was made using Cash.,order printer order cancel payment make use cash,Negative
+ORD200143,Chair,Shipped,I ordered a Chair and the order was Shipped. Payment was made using Online.,order chair order ship payment make use online,Positive
+ORD200145,Printer,Delivered,I ordered a Printer and the order was Delivered. Payment was made using Credit Card.,order printer order deliver payment make use credit card,Positive
+ORD200146,Tablet,Returned,I ordered a Tablet and the order was Returned. Payment was made using Credit Card.,order tablet order return payment make use credit card,Negative
+ORD200147,Laptop,Cancelled,I ordered a Laptop and the order was Cancelled. Payment was made using Credit Card.,order laptop order cancel payment make use credit card,Negative
+ORD200148,Phone,Cancelled,I ordered a Phone and the order was Cancelled. Payment was made using Credit Card.,order phone order cancel payment make use credit card,Negative
+ORD200149,Laptop,Delivered,I ordered a Laptop and the order was Delivered. Payment was made using Debit Card.,order laptop order deliver payment make use debit card,Positive
+ORD200150,Phone,Returned,I ordered a Phone and the order was Returned. Payment was made using Debit Card.,order phone order return payment make use debit card,Negative
+ORD200151,Printer,Returned,I ordered a Printer and the order was Returned. Payment was made using Debit Card.,order printer order return payment make use debit card,Negative
+ORD200152,Chair,Cancelled,I ordered a Chair and the order was Cancelled. Payment was made using Cash.,order chair order cancel payment make use cash,Negative
+ORD200153,Chair,Returned,I ordered a Chair and the order was Returned. Payment was made using Online.,order chair order return payment make use online,Negative
+ORD200155,Phone,Shipped,I ordered a Phone and the order was Shipped. Payment was made using Online.,order phone order ship payment make use online,Positive
+ORD200156,Chair,Delivered,I ordered a Chair and the order was Delivered. Payment was made using Online.,order chair order deliver payment make use online,Positive
+ORD200157,Monitor,Returned,I ordered a Monitor and the order was Returned. Payment was made using Online.,order monitor order return payment make use online,Negative
+ORD200159,Printer,Cancelled,I ordered a Printer and the order was Cancelled. Payment was made using Credit Card.,order printer order cancel payment make use credit card,Negative
+ORD200161,Monitor,Cancelled,I ordered a Monitor and the order was Cancelled. Payment was made using Credit Card.,order monitor order cancel payment make use credit card,Negative
+ORD200163,Tablet,Cancelled,I ordered a Tablet and the order was Cancelled. Payment was made using Online.,order tablet order cancel payment make use online,Negative
+ORD200165,Monitor,Returned,I ordered a Monitor and the order was Returned. Payment was made using Online.,order monitor order return payment make use online,Negative
+ORD200166,Chair,Delivered,I ordered a Chair and the order was Delivered. Payment was made using Cash.,order chair order deliver payment make use cash,Positive
+ORD200167,Chair,Returned,I ordered a Chair and the order was Returned. Payment was made using Online.,order chair order return payment make use online,Negative
+ORD200168,Printer,Returned,I ordered a Printer and the order was Returned. Payment was made using Cash.,order printer order return payment make use cash,Negative
+ORD200169,Printer,Delivered,I ordered a Printer and the order was Delivered. Payment was made using Online.,order printer order deliver payment make use online,Positive
+ORD200170,Desk,Cancelled,I ordered a Desk and the order was Cancelled. Payment was made using Cash.,order desk order cancel payment make use cash,Negative
+ORD200171,Tablet,Delivered,I ordered a Tablet and the order was Delivered. Payment was made using Credit Card.,order tablet order deliver payment make use credit card,Positive
+ORD200172,Printer,Delivered,I ordered a Printer and the order was Delivered. Payment was made using Online.,order printer order deliver payment make use online,Positive
+ORD200173,Phone,Delivered,I ordered a Phone and the order was Delivered. Payment was made using Online.,order phone order deliver payment make use online,Positive
+ORD200174,Printer,Delivered,I ordered a Printer and the order was Delivered. Payment was made using Debit Card.,order printer order deliver payment make use debit card,Positive
+ORD200178,Chair,Delivered,I ordered a Chair and the order was Delivered. Payment was made using Online.,order chair order deliver payment make use online,Positive
+ORD200179,Laptop,Delivered,I ordered a Laptop and the order was Delivered. Payment was made using Credit Card.,order laptop order deliver payment make use credit card,Positive
+ORD200180,Tablet,Returned,I ordered a Tablet and the order was Returned. Payment was made using Cash.,order tablet order return payment make use cash,Negative
+ORD200181,Printer,Shipped,I ordered a Printer and the order was Shipped. Payment was made using Online.,order printer order ship payment make use online,Positive
+ORD200183,Monitor,Delivered,I ordered a Monitor and the order was Delivered. Payment was made using Debit Card.,order monitor order deliver payment make use debit card,Positive
+ORD200184,Tablet,Cancelled,I ordered a Tablet and the order was Cancelled. Payment was made using Gift Card.,order tablet order cancel payment make use gift card,Negative
+ORD200185,Laptop,Shipped,I ordered a Laptop and the order was Shipped. Payment was made using Online.,order laptop order ship payment make use online,Positive
+ORD200187,Chair,Returned,I ordered a Chair and the order was Returned. Payment was made using Gift Card.,order chair order return payment make use gift card,Negative
+ORD200188,Chair,Shipped,I ordered a Chair and the order was Shipped. Payment was made using Gift Card.,order chair order ship payment make use gift card,Positive
+ORD200189,Printer,Cancelled,I ordered a Printer and the order was Cancelled. Payment was made using Gift Card.,order printer order cancel payment make use gift card,Negative
+ORD200190,Printer,Returned,I ordered a Printer and the order was Returned. Payment was made using Cash.,order printer order return payment make use cash,Negative
+ORD200191,Laptop,Cancelled,I ordered a Laptop and the order was Cancelled. Payment was made using Online.,order laptop order cancel payment make use online,Negative
+ORD200192,Desk,Cancelled,I ordered a Desk and the order was Cancelled. Payment was made using Gift Card.,order desk order cancel payment make use gift card,Negative
+ORD200193,Printer,Cancelled,I ordered a Printer and the order was Cancelled. Payment was made using Cash.,order printer order cancel payment make use cash,Negative
+ORD200194,Monitor,Shipped,I ordered a Monitor and the order was Shipped. Payment was made using Cash.,order monitor order ship payment make use cash,Positive
+ORD200195,Chair,Cancelled,I ordered a Chair and the order was Cancelled. Payment was made using Debit Card.,order chair order cancel payment make use debit card,Negative
+ORD200196,Desk,Delivered,I ordered a Desk and the order was Delivered. Payment was made using Cash.,order desk order deliver payment make use cash,Positive
+ORD200197,Laptop,Returned,I ordered a Laptop and the order was Returned. Payment was made using Cash.,order laptop order return payment make use cash,Negative
+ORD200198,Laptop,Cancelled,I ordered a Laptop and the order was Cancelled. Payment was made using Cash.,order laptop order cancel payment make use cash,Negative
+ORD200199,Phone,Returned,I ordered a Phone and the order was Returned. Payment was made using Online.,order phone order return payment make use online,Negative
+ORD200200,Tablet,Delivered,I ordered a Tablet and the order was Delivered. Payment was made using Credit Card.,order tablet order deliver payment make use credit card,Positive
+ORD200201,Monitor,Shipped,I ordered a Monitor and the order was Shipped. Payment was made using Online.,order monitor order ship payment make use online,Positive
+ORD200202,Monitor,Cancelled,I ordered a Monitor and the order was Cancelled. Payment was made using Credit Card.,order monitor order cancel payment make use credit card,Negative
+ORD200203,Printer,Shipped,I ordered a Printer and the order was Shipped. Payment was made using Online.,order printer order ship payment make use online,Positive
+ORD200204,Laptop,Cancelled,I ordered a Laptop and the order was Cancelled. Payment was made using Gift Card.,order laptop order cancel payment make use gift card,Negative
+ORD200205,Desk,Returned,I ordered a Desk and the order was Returned. Payment was made using Debit Card.,order desk order return payment make use debit card,Negative
+ORD200206,Laptop,Returned,I ordered a Laptop and the order was Returned. Payment was made using Gift Card.,order laptop order return payment make use gift card,Negative
+ORD200207,Phone,Delivered,I ordered a Phone and the order was Delivered. Payment was made using Debit Card.,order phone order deliver payment make use debit card,Positive
+ORD200208,Desk,Shipped,I ordered a Desk and the order was Shipped. Payment was made using Online.,order desk order ship payment make use online,Positive
+ORD200209,Tablet,Returned,I ordered a Tablet and the order was Returned. Payment was made using Cash.,order tablet order return payment make use cash,Negative
+ORD200210,Chair,Delivered,I ordered a Chair and the order was Delivered. Payment was made using Gift Card.,order chair order deliver payment make use gift card,Positive
+ORD200212,Monitor,Cancelled,I ordered a Monitor and the order was Cancelled. Payment was made using Credit Card.,order monitor order cancel payment make use credit card,Negative
+ORD200213,Laptop,Cancelled,I ordered a Laptop and the order was Cancelled. Payment was made using Cash.,order laptop order cancel payment make use cash,Negative
+ORD200214,Desk,Delivered,I ordered a Desk and the order was Delivered. Payment was made using Online.,order desk order deliver payment make use online,Positive
+ORD200215,Printer,Shipped,I ordered a Printer and the order was Shipped. Payment was made using Cash.,order printer order ship payment make use cash,Positive
+ORD200216,Monitor,Cancelled,I ordered a Monitor and the order was Cancelled. Payment was made using Online.,order monitor order cancel payment make use online,Negative
+ORD200217,Desk,Returned,I ordered a Desk and the order was Returned. Payment was made using Cash.,order desk order return payment make use cash,Negative
+ORD200218,Tablet,Shipped,I ordered a Tablet and the order was Shipped. Payment was made using Gift Card.,order tablet order ship payment make use gift card,Positive
+ORD200219,Laptop,Delivered,I ordered a Laptop and the order was Delivered. Payment was made using Cash.,order laptop order deliver payment make use cash,Positive
+ORD200222,Chair,Shipped,I ordered a Chair and the order was Shipped. Payment was made using Online.,order chair order ship payment make use online,Positive
+ORD200224,Printer,Cancelled,I ordered a Printer and the order was Cancelled. Payment was made using Cash.,order printer order cancel payment make use cash,Negative
+ORD200225,Phone,Returned,I ordered a Phone and the order was Returned. Payment was made using Debit Card.,order phone order return payment make use debit card,Negative
+ORD200226,Desk,Delivered,I ordered a Desk and the order was Delivered. Payment was made using Gift Card.,order desk order deliver payment make use gift card,Positive
+ORD200227,Monitor,Cancelled,I ordered a Monitor and the order was Cancelled. Payment was made using Online.,order monitor order cancel payment make use online,Negative
+ORD200228,Chair,Cancelled,I ordered a Chair and the order was Cancelled. Payment was made using Credit Card.,order chair order cancel payment make use credit card,Negative
+ORD200229,Tablet,Delivered,I ordered a Tablet and the order was Delivered. Payment was made using Credit Card.,order tablet order deliver payment make use credit card,Positive
+ORD200230,Desk,Delivered,I ordered a Desk and the order was Delivered. Payment was made using Gift Card.,order desk order deliver payment make use gift card,Positive
+ORD200232,Printer,Cancelled,I ordered a Printer and the order was Cancelled. Payment was made using Debit Card.,order printer order cancel payment make use debit card,Negative
+ORD200233,Phone,Cancelled,I ordered a Phone and the order was Cancelled. Payment was made using Cash.,order phone order cancel payment make use cash,Negative
+ORD200237,Monitor,Shipped,I ordered a Monitor and the order was Shipped. Payment was made using Credit Card.,order monitor order ship payment make use credit card,Positive
+ORD200239,Tablet,Shipped,I ordered a Tablet and the order was Shipped. Payment was made using Online.,order tablet order ship payment make use online,Positive
+ORD200243,Chair,Cancelled,I ordered a Chair and the order was Cancelled. Payment was made using Online.,order chair order cancel payment make use online,Negative
+ORD200244,Desk,Cancelled,I ordered a Desk and the order was Cancelled. Payment was made using Debit Card.,order desk order cancel payment make use debit card,Negative
+ORD200245,Laptop,Returned,I ordered a Laptop and the order was Returned. Payment was made using Online.,order laptop order return payment make use online,Negative
+ORD200246,Desk,Shipped,I ordered a Desk and the order was Shipped. Payment was made using Gift Card.,order desk order ship payment make use gift card,Positive
+ORD200247,Printer,Shipped,I ordered a Printer and the order was Shipped. Payment was made using Gift Card.,order printer order ship payment make use gift card,Positive
+ORD200248,Laptop,Shipped,I ordered a Laptop and the order was Shipped. Payment was made using Cash.,order laptop order ship payment make use cash,Positive
+ORD200250,Desk,Returned,I ordered a Desk and the order was Returned. Payment was made using Gift Card.,order desk order return payment make use gift card,Negative
+ORD200251,Monitor,Cancelled,I ordered a Monitor and the order was Cancelled. Payment was made using Cash.,order monitor order cancel payment make use cash,Negative
+ORD200252,Phone,Cancelled,I ordered a Phone and the order was Cancelled. Payment was made using Gift Card.,order phone order cancel payment make use gift card,Negative
+ORD200253,Chair,Returned,I ordered a Chair and the order was Returned. Payment was made using Gift Card.,order chair order return payment make use gift card,Negative
+ORD200254,Monitor,Delivered,I ordered a Monitor and the order was Delivered. Payment was made using Online.,order monitor order deliver payment make use online,Positive
+ORD200255,Monitor,Returned,I ordered a Monitor and the order was Returned. Payment was made using Gift Card.,order monitor order return payment make use gift card,Negative
+ORD200256,Chair,Returned,I ordered a Chair and the order was Returned. Payment was made using Gift Card.,order chair order return payment make use gift card,Negative
+ORD200257,Phone,Cancelled,I ordered a Phone and the order was Cancelled. Payment was made using Credit Card.,order phone order cancel payment make use credit card,Negative
+ORD200258,Tablet,Shipped,I ordered a Tablet and the order was Shipped. Payment was made using Online.,order tablet order ship payment make use online,Positive
+ORD200259,Chair,Delivered,I ordered a Chair and the order was Delivered. Payment was made using Credit Card.,order chair order deliver payment make use credit card,Positive
+ORD200260,Monitor,Shipped,I ordered a Monitor and the order was Shipped. Payment was made using Debit Card.,order monitor order ship payment make use debit card,Positive
+ORD200261,Phone,Delivered,I ordered a Phone and the order was Delivered. Payment was made using Gift Card.,order phone order deliver payment make use gift card,Positive
+ORD200262,Phone,Returned,I ordered a Phone and the order was Returned. Payment was made using Credit Card.,order phone order return payment make use credit card,Negative
+ORD200264,Tablet,Returned,I ordered a Tablet and the order was Returned. Payment was made using Cash.,order tablet order return payment make use cash,Negative
+ORD200265,Printer,Cancelled,I ordered a Printer and the order was Cancelled. Payment was made using Debit Card.,order printer order cancel payment make use debit card,Negative
+ORD200266,Chair,Cancelled,I ordered a Chair and the order was Cancelled. Payment was made using Credit Card.,order chair order cancel payment make use credit card,Negative
+ORD200267,Chair,Delivered,I ordered a Chair and the order was Delivered. Payment was made using Debit Card.,order chair order deliver payment make use debit card,Positive
+ORD200268,Phone,Delivered,I ordered a Phone and the order was Delivered. Payment was made using Debit Card.,order phone order deliver payment make use debit card,Positive
+ORD200270,Printer,Shipped,I ordered a Printer and the order was Shipped. Payment was made using Debit Card.,order printer order ship payment make use debit card,Positive
+ORD200271,Monitor,Shipped,I ordered a Monitor and the order was Shipped. Payment was made using Cash.,order monitor order ship payment make use cash,Positive
+ORD200273,Tablet,Cancelled,I ordered a Tablet and the order was Cancelled. Payment was made using Online.,order tablet order cancel payment make use online,Negative
+ORD200274,Phone,Cancelled,I ordered a Phone and the order was Cancelled. Payment was made using Gift Card.,order phone order cancel payment make use gift card,Negative
+ORD200275,Chair,Cancelled,I ordered a Chair and the order was Cancelled. Payment was made using Credit Card.,order chair order cancel payment make use credit card,Negative
+ORD200276,Printer,Returned,I ordered a Printer and the order was Returned. Payment was made using Debit Card.,order printer order return payment make use debit card,Negative
+ORD200277,Chair,Delivered,I ordered a Chair and the order was Delivered. Payment was made using Credit Card.,order chair order deliver payment make use credit card,Positive
+ORD200278,Laptop,Delivered,I ordered a Laptop and the order was Delivered. Payment was made using Cash.,order laptop order deliver payment make use cash,Positive
+ORD200280,Tablet,Delivered,I ordered a Tablet and the order was Delivered. Payment was made using Gift Card.,order tablet order deliver payment make use gift card,Positive
+ORD200282,Printer,Cancelled,I ordered a Printer and the order was Cancelled. Payment was made using Gift Card.,order printer order cancel payment make use gift card,Negative
+ORD200283,Laptop,Shipped,I ordered a Laptop and the order was Shipped. Payment was made using Cash.,order laptop order ship payment make use cash,Positive
+ORD200284,Laptop,Returned,I ordered a Laptop and the order was Returned. Payment was made using Credit Card.,order laptop order return payment make use credit card,Negative
+ORD200285,Phone,Delivered,I ordered a Phone and the order was Delivered. Payment was made using Online.,order phone order deliver payment make use online,Positive
+ORD200286,Monitor,Returned,I ordered a Monitor and the order was Returned. Payment was made using Gift Card.,order monitor order return payment make use gift card,Negative
+ORD200287,Chair,Shipped,I ordered a Chair and the order was Shipped. Payment was made using Online.,order chair order ship payment make use online,Positive
+ORD200288,Laptop,Returned,I ordered a Laptop and the order was Returned. Payment was made using Debit Card.,order laptop order return payment make use debit card,Negative
+ORD200289,Chair,Shipped,I ordered a Chair and the order was Shipped. Payment was made using Credit Card.,order chair order ship payment make use credit card,Positive
+ORD200290,Chair,Delivered,I ordered a Chair and the order was Delivered. Payment was made using Cash.,order chair order deliver payment make use cash,Positive
+ORD200291,Phone,Delivered,I ordered a Phone and the order was Delivered. Payment was made using Credit Card.,order phone order deliver payment make use credit card,Positive
+ORD200292,Monitor,Delivered,I ordered a Monitor and the order was Delivered. Payment was made using Credit Card.,order monitor order deliver payment make use credit card,Positive
+ORD200293,Tablet,Returned,I ordered a Tablet and the order was Returned. Payment was made using Gift Card.,order tablet order return payment make use gift card,Negative
+ORD200294,Phone,Shipped,I ordered a Phone and the order was Shipped. Payment was made using Online.,order phone order ship payment make use online,Positive
+ORD200295,Printer,Cancelled,I ordered a Printer and the order was Cancelled. Payment was made using Debit Card.,order printer order cancel payment make use debit card,Negative
+ORD200296,Desk,Cancelled,I ordered a Desk and the order was Cancelled. Payment was made using Debit Card.,order desk order cancel payment make use debit card,Negative
+ORD200297,Desk,Returned,I ordered a Desk and the order was Returned. Payment was made using Credit Card.,order desk order return payment make use credit card,Negative
+ORD200298,Printer,Cancelled,I ordered a Printer and the order was Cancelled. Payment was made using Online.,order printer order cancel payment make use online,Negative
+ORD200299,Monitor,Cancelled,I ordered a Monitor and the order was Cancelled. Payment was made using Gift Card.,order monitor order cancel payment make use gift card,Negative
+ORD200300,Phone,Returned,I ordered a Phone and the order was Returned. Payment was made using Debit Card.,order phone order return payment make use debit card,Negative
+ORD200301,Chair,Cancelled,I ordered a Chair and the order was Cancelled. Payment was made using Cash.,order chair order cancel payment make use cash,Negative
+ORD200303,Tablet,Returned,I ordered a Tablet and the order was Returned. Payment was made using Debit Card.,order tablet order return payment make use debit card,Negative
+ORD200304,Monitor,Delivered,I ordered a Monitor and the order was Delivered. Payment was made using Gift Card.,order monitor order deliver payment make use gift card,Positive
+ORD200306,Printer,Returned,I ordered a Printer and the order was Returned. Payment was made using Debit Card.,order printer order return payment make use debit card,Negative
+ORD200307,Laptop,Delivered,I ordered a Laptop and the order was Delivered. Payment was made using Online.,order laptop order deliver payment make use online,Positive
+ORD200308,Printer,Returned,I ordered a Printer and the order was Returned. Payment was made using Debit Card.,order printer order return payment make use debit card,Negative
+ORD200309,Chair,Delivered,I ordered a Chair and the order was Delivered. Payment was made using Debit Card.,order chair order deliver payment make use debit card,Positive
+ORD200310,Printer,Shipped,I ordered a Printer and the order was Shipped. Payment was made using Online.,order printer order ship payment make use online,Positive
+ORD200311,Desk,Returned,I ordered a Desk and the order was Returned. Payment was made using Online.,order desk order return payment make use online,Negative
+ORD200313,Chair,Delivered,I ordered a Chair and the order was Delivered. Payment was made using Cash.,order chair order deliver payment make use cash,Positive
+ORD200314,Desk,Delivered,I ordered a Desk and the order was Delivered. Payment was made using Online.,order desk order deliver payment make use online,Positive
+ORD200315,Tablet,Cancelled,I ordered a Tablet and the order was Cancelled. Payment was made using Online.,order tablet order cancel payment make use online,Negative
+ORD200316,Desk,Shipped,I ordered a Desk and the order was Shipped. Payment was made using Gift Card.,order desk order ship payment make use gift card,Positive
+ORD200317,Monitor,Returned,I ordered a Monitor and the order was Returned. Payment was made using Online.,order monitor order return payment make use online,Negative
+ORD200318,Chair,Cancelled,I ordered a Chair and the order was Cancelled. Payment was made using Debit Card.,order chair order cancel payment make use debit card,Negative
+ORD200319,Laptop,Returned,I ordered a Laptop and the order was Returned. Payment was made using Cash.,order laptop order return payment make use cash,Negative
+ORD200320,Printer,Shipped,I ordered a Printer and the order was Shipped. Payment was made using Credit Card.,order printer order ship payment make use credit card,Positive
+ORD200321,Phone,Cancelled,I ordered a Phone and the order was Cancelled. Payment was made using Debit Card.,order phone order cancel payment make use debit card,Negative
+ORD200322,Phone,Delivered,I ordered a Phone and the order was Delivered. Payment was made using Debit Card.,order phone order deliver payment make use debit card,Positive
+ORD200323,Laptop,Returned,I ordered a Laptop and the order was Returned. Payment was made using Debit Card.,order laptop order return payment make use debit card,Negative
+ORD200324,Tablet,Returned,I ordered a Tablet and the order was Returned. Payment was made using Debit Card.,order tablet order return payment make use debit card,Negative
+ORD200325,Desk,Shipped,I ordered a Desk and the order was Shipped. Payment was made using Credit Card.,order desk order ship payment make use credit card,Positive
+ORD200326,Laptop,Returned,I ordered a Laptop and the order was Returned. Payment was made using Gift Card.,order laptop order return payment make use gift card,Negative
+ORD200327,Phone,Cancelled,I ordered a Phone and the order was Cancelled. Payment was made using Gift Card.,order phone order cancel payment make use gift card,Negative
+ORD200328,Tablet,Cancelled,I ordered a Tablet and the order was Cancelled. Payment was made using Online.,order tablet order cancel payment make use online,Negative
+ORD200329,Chair,Shipped,I ordered a Chair and the order was Shipped. Payment was made using Credit Card.,order chair order ship payment make use credit card,Positive
+ORD200331,Printer,Delivered,I ordered a Printer and the order was Delivered. Payment was made using Online.,order printer order deliver payment make use online,Positive
+ORD200333,Phone,Returned,I ordered a Phone and the order was Returned. Payment was made using Credit Card.,order phone order return payment make use credit card,Negative
+ORD200334,Chair,Delivered,I ordered a Chair and the order was Delivered. Payment was made using Online.,order chair order deliver payment make use online,Positive
+ORD200335,Tablet,Shipped,I ordered a Tablet and the order was Shipped. Payment was made using Gift Card.,order tablet order ship payment make use gift card,Positive
+ORD200337,Tablet,Returned,I ordered a Tablet and the order was Returned. Payment was made using Debit Card.,order tablet order return payment make use debit card,Negative
+ORD200338,Phone,Shipped,I ordered a Phone and the order was Shipped. Payment was made using Debit Card.,order phone order ship payment make use debit card,Positive
+ORD200340,Laptop,Cancelled,I ordered a Laptop and the order was Cancelled. Payment was made using Cash.,order laptop order cancel payment make use cash,Negative
+ORD200341,Tablet,Shipped,I ordered a Tablet and the order was Shipped. Payment was made using Gift Card.,order tablet order ship payment make use gift card,Positive
+ORD200342,Monitor,Returned,I ordered a Monitor and the order was Returned. Payment was made using Gift Card.,order monitor order return payment make use gift card,Negative
+ORD200344,Tablet,Cancelled,I ordered a Tablet and the order was Cancelled. Payment was made using Online.,order tablet order cancel payment make use online,Negative
+ORD200345,Tablet,Shipped,I ordered a Tablet and the order was Shipped. Payment was made using Gift Card.,order tablet order ship payment make use gift card,Positive
+ORD200348,Laptop,Returned,I ordered a Laptop and the order was Returned. Payment was made using Debit Card.,order laptop order return payment make use debit card,Negative
+ORD200349,Chair,Delivered,I ordered a Chair and the order was Delivered. Payment was made using Gift Card.,order chair order deliver payment make use gift card,Positive
+ORD200350,Chair,Shipped,I ordered a Chair and the order was Shipped. Payment was made using Online.,order chair order ship payment make use online,Positive
+ORD200351,Laptop,Delivered,I ordered a Laptop and the order was Delivered. Payment was made using Debit Card.,order laptop order deliver payment make use debit card,Positive
+ORD200353,Tablet,Delivered,I ordered a Tablet and the order was Delivered. Payment was made using Online.,order tablet order deliver payment make use online,Positive
+ORD200354,Phone,Shipped,I ordered a Phone and the order was Shipped. Payment was made using Debit Card.,order phone order ship payment make use debit card,Positive
+ORD200355,Tablet,Cancelled,I ordered a Tablet and the order was Cancelled. Payment was made using Credit Card.,order tablet order cancel payment make use credit card,Negative
+ORD200356,Printer,Cancelled,I ordered a Printer and the order was Cancelled. Payment was made using Gift Card.,order printer order cancel payment make use gift card,Negative
+ORD200357,Laptop,Delivered,I ordered a Laptop and the order was Delivered. Payment was made using Debit Card.,order laptop order deliver payment make use debit card,Positive
+ORD200358,Tablet,Cancelled,I ordered a Tablet and the order was Cancelled. Payment was made using Online.,order tablet order cancel payment make use online,Negative
+ORD200359,Desk,Delivered,I ordered a Desk and the order was Delivered. Payment was made using Debit Card.,order desk order deliver payment make use debit card,Positive
+ORD200361,Printer,Delivered,I ordered a Printer and the order was Delivered. Payment was made using Credit Card.,order printer order deliver payment make use credit card,Positive
+ORD200362,Monitor,Cancelled,I ordered a Monitor and the order was Cancelled. Payment was made using Cash.,order monitor order cancel payment make use cash,Negative
+ORD200364,Phone,Cancelled,I ordered a Phone and the order was Cancelled. Payment was made using Cash.,order phone order cancel payment make use cash,Negative
+ORD200365,Phone,Cancelled,I ordered a Phone and the order was Cancelled. Payment was made using Credit Card.,order phone order cancel payment make use credit card,Negative
+ORD200368,Monitor,Cancelled,I ordered a Monitor and the order was Cancelled. Payment was made using Credit Card.,order monitor order cancel payment make use credit card,Negative
+ORD200370,Phone,Cancelled,I ordered a Phone and the order was Cancelled. Payment was made using Online.,order phone order cancel payment make use online,Negative
+ORD200372,Chair,Returned,I ordered a Chair and the order was Returned. Payment was made using Cash.,order chair order return payment make use cash,Negative
+ORD200375,Monitor,Shipped,I ordered a Monitor and the order was Shipped. Payment was made using Online.,order monitor order ship payment make use online,Positive
+ORD200379,Phone,Shipped,I ordered a Phone and the order was Shipped. Payment was made using Online.,order phone order ship payment make use online,Positive
+ORD200381,Chair,Returned,I ordered a Chair and the order was Returned. Payment was made using Credit Card.,order chair order return payment make use credit card,Negative
+ORD200382,Printer,Shipped,I ordered a Printer and the order was Shipped. Payment was made using Debit Card.,order printer order ship payment make use debit card,Positive
+ORD200384,Chair,Returned,I ordered a Chair and the order was Returned. Payment was made using Credit Card.,order chair order return payment make use credit card,Negative
+ORD200385,Chair,Delivered,I ordered a Chair and the order was Delivered. Payment was made using Gift Card.,order chair order deliver payment make use gift card,Positive
+ORD200386,Tablet,Returned,I ordered a Tablet and the order was Returned. Payment was made using Online.,order tablet order return payment make use online,Negative
+ORD200387,Printer,Shipped,I ordered a Printer and the order was Shipped. Payment was made using Credit Card.,order printer order ship payment make use credit card,Positive
+ORD200389,Desk,Shipped,I ordered a Desk and the order was Shipped. Payment was made using Cash.,order desk order ship payment make use cash,Positive
+ORD200390,Printer,Delivered,I ordered a Printer and the order was Delivered. Payment was made using Cash.,order printer order deliver payment make use cash,Positive
+ORD200391,Laptop,Cancelled,I ordered a Laptop and the order was Cancelled. Payment was made using Debit Card.,order laptop order cancel payment make use debit card,Negative
+ORD200392,Phone,Delivered,I ordered a Phone and the order was Delivered. Payment was made using Online.,order phone order deliver payment make use online,Positive
+ORD200393,Printer,Returned,I ordered a Printer and the order was Returned. Payment was made using Credit Card.,order printer order return payment make use credit card,Negative
+ORD200394,Desk,Shipped,I ordered a Desk and the order was Shipped. Payment was made using Gift Card.,order desk order ship payment make use gift card,Positive
+ORD200395,Phone,Delivered,I ordered a Phone and the order was Delivered. Payment was made using Gift Card.,order phone order deliver payment make use gift card,Positive
+ORD200396,Tablet,Shipped,I ordered a Tablet and the order was Shipped. Payment was made using Online.,order tablet order ship payment make use online,Positive
+ORD200397,Monitor,Cancelled,I ordered a Monitor and the order was Cancelled. Payment was made using Online.,order monitor order cancel payment make use online,Negative
+ORD200398,Phone,Shipped,I ordered a Phone and the order was Shipped. Payment was made using Gift Card.,order phone order ship payment make use gift card,Positive
+ORD200399,Tablet,Returned,I ordered a Tablet and the order was Returned. Payment was made using Debit Card.,order tablet order return payment make use debit card,Negative
+ORD200400,Desk,Returned,I ordered a Desk and the order was Returned. Payment was made using Debit Card.,order desk order return payment make use debit card,Negative
+ORD200401,Printer,Returned,I ordered a Printer and the order was Returned. Payment was made using Debit Card.,order printer order return payment make use debit card,Negative
+ORD200402,Printer,Shipped,I ordered a Printer and the order was Shipped. Payment was made using Gift Card.,order printer order ship payment make use gift card,Positive
+ORD200403,Tablet,Returned,I ordered a Tablet and the order was Returned. Payment was made using Online.,order tablet order return payment make use online,Negative
+ORD200404,Monitor,Delivered,I ordered a Monitor and the order was Delivered. Payment was made using Cash.,order monitor order deliver payment make use cash,Positive
+ORD200405,Monitor,Cancelled,I ordered a Monitor and the order was Cancelled. Payment was made using Online.,order monitor order cancel payment make use online,Negative
+ORD200406,Tablet,Returned,I ordered a Tablet and the order was Returned. Payment was made using Cash.,order tablet order return payment make use cash,Negative
+ORD200407,Tablet,Returned,I ordered a Tablet and the order was Returned. Payment was made using Cash.,order tablet order return payment make use cash,Negative
+ORD200409,Desk,Delivered,I ordered a Desk and the order was Delivered. Payment was made using Online.,order desk order deliver payment make use online,Positive
+ORD200410,Tablet,Shipped,I ordered a Tablet and the order was Shipped. Payment was made using Debit Card.,order tablet order ship payment make use debit card,Positive
+ORD200411,Desk,Shipped,I ordered a Desk and the order was Shipped. Payment was made using Online.,order desk order ship payment make use online,Positive
+ORD200412,Tablet,Returned,I ordered a Tablet and the order was Returned. Payment was made using Credit Card.,order tablet order return payment make use credit card,Negative
+ORD200413,Tablet,Delivered,I ordered a Tablet and the order was Delivered. Payment was made using Online.,order tablet order deliver payment make use online,Positive
+ORD200414,Desk,Delivered,I ordered a Desk and the order was Delivered. Payment was made using Cash.,order desk order deliver payment make use cash,Positive
+ORD200415,Chair,Shipped,I ordered a Chair and the order was Shipped. Payment was made using Gift Card.,order chair order ship payment make use gift card,Positive
+ORD200416,Laptop,Cancelled,I ordered a Laptop and the order was Cancelled. Payment was made using Gift Card.,order laptop order cancel payment make use gift card,Negative
+ORD200417,Laptop,Cancelled,I ordered a Laptop and the order was Cancelled. Payment was made using Online.,order laptop order cancel payment make use online,Negative
+ORD200418,Printer,Cancelled,I ordered a Printer and the order was Cancelled. Payment was made using Online.,order printer order cancel payment make use online,Negative
+ORD200420,Phone,Shipped,I ordered a Phone and the order was Shipped. Payment was made using Debit Card.,order phone order ship payment make use debit card,Positive
+ORD200421,Chair,Cancelled,I ordered a Chair and the order was Cancelled. Payment was made using Debit Card.,order chair order cancel payment make use debit card,Negative
+ORD200422,Phone,Returned,I ordered a Phone and the order was Returned. Payment was made using Gift Card.,order phone order return payment make use gift card,Negative
+ORD200423,Printer,Cancelled,I ordered a Printer and the order was Cancelled. Payment was made using Gift Card.,order printer order cancel payment make use gift card,Negative
+ORD200425,Laptop,Returned,I ordered a Laptop and the order was Returned. Payment was made using Gift Card.,order laptop order return payment make use gift card,Negative
+ORD200426,Monitor,Cancelled,I ordered a Monitor and the order was Cancelled. Payment was made using Cash.,order monitor order cancel payment make use cash,Negative
+ORD200428,Chair,Cancelled,I ordered a Chair and the order was Cancelled. Payment was made using Online.,order chair order cancel payment make use online,Negative
+ORD200430,Phone,Shipped,I ordered a Phone and the order was Shipped. Payment was made using Gift Card.,order phone order ship payment make use gift card,Positive
+ORD200431,Printer,Cancelled,I ordered a Printer and the order was Cancelled. Payment was made using Debit Card.,order printer order cancel payment make use debit card,Negative
+ORD200432,Tablet,Returned,I ordered a Tablet and the order was Returned. Payment was made using Credit Card.,order tablet order return payment make use credit card,Negative
+ORD200433,Monitor,Returned,I ordered a Monitor and the order was Returned. Payment was made using Credit Card.,order monitor order return payment make use credit card,Negative
+ORD200434,Printer,Returned,I ordered a Printer and the order was Returned. Payment was made using Credit Card.,order printer order return payment make use credit card,Negative
+ORD200435,Printer,Returned,I ordered a Printer and the order was Returned. Payment was made using Debit Card.,order printer order return payment make use debit card,Negative
+ORD200437,Phone,Delivered,I ordered a Phone and the order was Delivered. Payment was made using Online.,order phone order deliver payment make use online,Positive
+ORD200439,Tablet,Shipped,I ordered a Tablet and the order was Shipped. Payment was made using Online.,order tablet order ship payment make use online,Positive
+ORD200441,Printer,Returned,I ordered a Printer and the order was Returned. Payment was made using Gift Card.,order printer order return payment make use gift card,Negative
+ORD200443,Chair,Returned,I ordered a Chair and the order was Returned. Payment was made using Cash.,order chair order return payment make use cash,Negative
+ORD200444,Printer,Shipped,I ordered a Printer and the order was Shipped. Payment was made using Online.,order printer order ship payment make use online,Positive
+ORD200445,Phone,Delivered,I ordered a Phone and the order was Delivered. Payment was made using Cash.,order phone order deliver payment make use cash,Positive
+ORD200446,Laptop,Delivered,I ordered a Laptop and the order was Delivered. Payment was made using Online.,order laptop order deliver payment make use online,Positive
+ORD200447,Printer,Returned,I ordered a Printer and the order was Returned. Payment was made using Cash.,order printer order return payment make use cash,Negative
+ORD200450,Monitor,Returned,I ordered a Monitor and the order was Returned. Payment was made using Gift Card.,order monitor order return payment make use gift card,Negative
+ORD200451,Monitor,Cancelled,I ordered a Monitor and the order was Cancelled. Payment was made using Debit Card.,order monitor order cancel payment make use debit card,Negative
+ORD200453,Tablet,Shipped,I ordered a Tablet and the order was Shipped. Payment was made using Cash.,order tablet order ship payment make use cash,Positive
+ORD200454,Laptop,Cancelled,I ordered a Laptop and the order was Cancelled. Payment was made using Debit Card.,order laptop order cancel payment make use debit card,Negative
+ORD200456,Desk,Shipped,I ordered a Desk and the order was Shipped. Payment was made using Credit Card.,order desk order ship payment make use credit card,Positive
+ORD200457,Desk,Returned,I ordered a Desk and the order was Returned. Payment was made using Online.,order desk order return payment make use online,Negative
+ORD200458,Monitor,Returned,I ordered a Monitor and the order was Returned. Payment was made using Credit Card.,order monitor order return payment make use credit card,Negative
+ORD200459,Desk,Returned,I ordered a Desk and the order was Returned. Payment was made using Credit Card.,order desk order return payment make use credit card,Negative
+ORD200460,Laptop,Returned,I ordered a Laptop and the order was Returned. Payment was made using Cash.,order laptop order return payment make use cash,Negative
+ORD200461,Tablet,Shipped,I ordered a Tablet and the order was Shipped. Payment was made using Credit Card.,order tablet order ship payment make use credit card,Positive
+ORD200462,Phone,Cancelled,I ordered a Phone and the order was Cancelled. Payment was made using Online.,order phone order cancel payment make use online,Negative
+ORD200463,Laptop,Shipped,I ordered a Laptop and the order was Shipped. Payment was made using Debit Card.,order laptop order ship payment make use debit card,Positive
+ORD200464,Tablet,Cancelled,I ordered a Tablet and the order was Cancelled. Payment was made using Online.,order tablet order cancel payment make use online,Negative
+ORD200465,Printer,Cancelled,I ordered a Printer and the order was Cancelled. Payment was made using Gift Card.,order printer order cancel payment make use gift card,Negative
+ORD200466,Phone,Delivered,I ordered a Phone and the order was Delivered. Payment was made using Cash.,order phone order deliver payment make use cash,Positive
+ORD200467,Desk,Cancelled,I ordered a Desk and the order was Cancelled. Payment was made using Cash.,order desk order cancel payment make use cash,Negative
+ORD200468,Phone,Delivered,I ordered a Phone and the order was Delivered. Payment was made using Credit Card.,order phone order deliver payment make use credit card,Positive
+ORD200469,Chair,Cancelled,I ordered a Chair and the order was Cancelled. Payment was made using Cash.,order chair order cancel payment make use cash,Negative
+ORD200470,Tablet,Shipped,I ordered a Tablet and the order was Shipped. Payment was made using Cash.,order tablet order ship payment make use cash,Positive
+ORD200471,Desk,Cancelled,I ordered a Desk and the order was Cancelled. Payment was made using Online.,order desk order cancel payment make use online,Negative
+ORD200472,Chair,Cancelled,I ordered a Chair and the order was Cancelled. Payment was made using Credit Card.,order chair order cancel payment make use credit card,Negative
+ORD200473,Chair,Shipped,I ordered a Chair and the order was Shipped. Payment was made using Online.,order chair order ship payment make use online,Positive
+ORD200474,Printer,Shipped,I ordered a Printer and the order was Shipped. Payment was made using Credit Card.,order printer order ship payment make use credit card,Positive
+ORD200475,Tablet,Cancelled,I ordered a Tablet and the order was Cancelled. Payment was made using Cash.,order tablet order cancel payment make use cash,Negative
+ORD200476,Phone,Returned,I ordered a Phone and the order was Returned. Payment was made using Online.,order phone order return payment make use online,Negative
+ORD200477,Phone,Shipped,I ordered a Phone and the order was Shipped. Payment was made using Online.,order phone order ship payment make use online,Positive
+ORD200478,Tablet,Shipped,I ordered a Tablet and the order was Shipped. Payment was made using Gift Card.,order tablet order ship payment make use gift card,Positive
+ORD200481,Laptop,Delivered,I ordered a Laptop and the order was Delivered. Payment was made using Debit Card.,order laptop order deliver payment make use debit card,Positive
+ORD200484,Chair,Cancelled,I ordered a Chair and the order was Cancelled. Payment was made using Cash.,order chair order cancel payment make use cash,Negative
+ORD200485,Chair,Shipped,I ordered a Chair and the order was Shipped. Payment was made using Cash.,order chair order ship payment make use cash,Positive
+ORD200486,Printer,Shipped,I ordered a Printer and the order was Shipped. Payment was made using Cash.,order printer order ship payment make use cash,Positive
+ORD200488,Chair,Cancelled,I ordered a Chair and the order was Cancelled. Payment was made using Online.,order chair order cancel payment make use online,Negative
+ORD200489,Tablet,Cancelled,I ordered a Tablet and the order was Cancelled. Payment was made using Gift Card.,order tablet order cancel payment make use gift card,Negative
+ORD200490,Chair,Cancelled,I ordered a Chair and the order was Cancelled. Payment was made using Online.,order chair order cancel payment make use online,Negative
+ORD200492,Laptop,Shipped,I ordered a Laptop and the order was Shipped. Payment was made using Debit Card.,order laptop order ship payment make use debit card,Positive
+ORD200496,Printer,Cancelled,I ordered a Printer and the order was Cancelled. Payment was made using Online.,order printer order cancel payment make use online,Negative
+ORD200497,Printer,Shipped,I ordered a Printer and the order was Shipped. Payment was made using Gift Card.,order printer order ship payment make use gift card,Positive
+ORD200498,Tablet,Returned,I ordered a Tablet and the order was Returned. Payment was made using Cash.,order tablet order return payment make use cash,Negative
+ORD200499,Printer,Shipped,I ordered a Printer and the order was Shipped. Payment was made using Credit Card.,order printer order ship payment make use credit card,Positive
+ORD200500,Laptop,Returned,I ordered a Laptop and the order was Returned. Payment was made using Cash.,order laptop order return payment make use cash,Negative
+ORD200502,Monitor,Returned,I ordered a Monitor and the order was Returned. Payment was made using Debit Card.,order monitor order return payment make use debit card,Negative
+ORD200504,Monitor,Cancelled,I ordered a Monitor and the order was Cancelled. Payment was made using Online.,order monitor order cancel payment make use online,Negative
+ORD200505,Printer,Shipped,I ordered a Printer and the order was Shipped. Payment was made using Online.,order printer order ship payment make use online,Positive
+ORD200506,Monitor,Returned,I ordered a Monitor and the order was Returned. Payment was made using Cash.,order monitor order return payment make use cash,Negative
+ORD200508,Phone,Delivered,I ordered a Phone and the order was Delivered. Payment was made using Online.,order phone order deliver payment make use online,Positive
+ORD200509,Laptop,Returned,I ordered a Laptop and the order was Returned. Payment was made using Cash.,order laptop order return payment make use cash,Negative
+ORD200510,Printer,Delivered,I ordered a Printer and the order was Delivered. Payment was made using Debit Card.,order printer order deliver payment make use debit card,Positive
+ORD200511,Monitor,Delivered,I ordered a Monitor and the order was Delivered. Payment was made using Cash.,order monitor order deliver payment make use cash,Positive
+ORD200513,Tablet,Shipped,I ordered a Tablet and the order was Shipped. Payment was made using Gift Card.,order tablet order ship payment make use gift card,Positive
+ORD200514,Printer,Shipped,I ordered a Printer and the order was Shipped. Payment was made using Gift Card.,order printer order ship payment make use gift card,Positive
+ORD200515,Phone,Shipped,I ordered a Phone and the order was Shipped. Payment was made using Gift Card.,order phone order ship payment make use gift card,Positive
+ORD200516,Monitor,Returned,I ordered a Monitor and the order was Returned. Payment was made using Cash.,order monitor order return payment make use cash,Negative
+ORD200517,Tablet,Cancelled,I ordered a Tablet and the order was Cancelled. Payment was made using Cash.,order tablet order cancel payment make use cash,Negative
+ORD200519,Laptop,Returned,I ordered a Laptop and the order was Returned. Payment was made using Debit Card.,order laptop order return payment make use debit card,Negative
+ORD200520,Monitor,Returned,I ordered a Monitor and the order was Returned. Payment was made using Cash.,order monitor order return payment make use cash,Negative
+ORD200521,Phone,Shipped,I ordered a Phone and the order was Shipped. Payment was made using Credit Card.,order phone order ship payment make use credit card,Positive
+ORD200522,Chair,Cancelled,I ordered a Chair and the order was Cancelled. Payment was made using Gift Card.,order chair order cancel payment make use gift card,Negative
+ORD200523,Desk,Returned,I ordered a Desk and the order was Returned. Payment was made using Credit Card.,order desk order return payment make use credit card,Negative
+ORD200524,Phone,Returned,I ordered a Phone and the order was Returned. Payment was made using Credit Card.,order phone order return payment make use credit card,Negative
+ORD200525,Monitor,Shipped,I ordered a Monitor and the order was Shipped. Payment was made using Debit Card.,order monitor order ship payment make use debit card,Positive
+ORD200526,Desk,Returned,I ordered a Desk and the order was Returned. Payment was made using Cash.,order desk order return payment make use cash,Negative
+ORD200527,Chair,Cancelled,I ordered a Chair and the order was Cancelled. Payment was made using Credit Card.,order chair order cancel payment make use credit card,Negative
+ORD200528,Chair,Returned,I ordered a Chair and the order was Returned. Payment was made using Credit Card.,order chair order return payment make use credit card,Negative
+ORD200531,Desk,Delivered,I ordered a Desk and the order was Delivered. Payment was made using Gift Card.,order desk order deliver payment make use gift card,Positive
+ORD200532,Laptop,Delivered,I ordered a Laptop and the order was Delivered. Payment was made using Online.,order laptop order deliver payment make use online,Positive
+ORD200533,Desk,Returned,I ordered a Desk and the order was Returned. Payment was made using Gift Card.,order desk order return payment make use gift card,Negative
+ORD200534,Chair,Cancelled,I ordered a Chair and the order was Cancelled. Payment was made using Debit Card.,order chair order cancel payment make use debit card,Negative
+ORD200535,Monitor,Cancelled,I ordered a Monitor and the order was Cancelled. Payment was made using Online.,order monitor order cancel payment make use online,Negative
+ORD200536,Chair,Returned,I ordered a Chair and the order was Returned. Payment was made using Cash.,order chair order return payment make use cash,Negative
+ORD200537,Tablet,Delivered,I ordered a Tablet and the order was Delivered. Payment was made using Online.,order tablet order deliver payment make use online,Positive
+ORD200538,Phone,Shipped,I ordered a Phone and the order was Shipped. Payment was made using Cash.,order phone order ship payment make use cash,Positive
+ORD200539,Desk,Delivered,I ordered a Desk and the order was Delivered. Payment was made using Gift Card.,order desk order deliver payment make use gift card,Positive
+ORD200542,Tablet,Cancelled,I ordered a Tablet and the order was Cancelled. Payment was made using Cash.,order tablet order cancel payment make use cash,Negative
+ORD200543,Desk,Shipped,I ordered a Desk and the order was Shipped. Payment was made using Cash.,order desk order ship payment make use cash,Positive
+ORD200544,Printer,Returned,I ordered a Printer and the order was Returned. Payment was made using Credit Card.,order printer order return payment make use credit card,Negative
+ORD200545,Monitor,Returned,I ordered a Monitor and the order was Returned. Payment was made using Cash.,order monitor order return payment make use cash,Negative
+ORD200546,Monitor,Returned,I ordered a Monitor and the order was Returned. Payment was made using Credit Card.,order monitor order return payment make use credit card,Negative
+ORD200547,Phone,Delivered,I ordered a Phone and the order was Delivered. Payment was made using Online.,order phone order deliver payment make use online,Positive
+ORD200548,Printer,Delivered,I ordered a Printer and the order was Delivered. Payment was made using Online.,order printer order deliver payment make use online,Positive
+ORD200549,Monitor,Cancelled,I ordered a Monitor and the order was Cancelled. Payment was made using Debit Card.,order monitor order cancel payment make use debit card,Negative
+ORD200550,Laptop,Shipped,I ordered a Laptop and the order was Shipped. Payment was made using Cash.,order laptop order ship payment make use cash,Positive
+ORD200551,Laptop,Delivered,I ordered a Laptop and the order was Delivered. Payment was made using Debit Card.,order laptop order deliver payment make use debit card,Positive
+ORD200552,Chair,Returned,I ordered a Chair and the order was Returned. Payment was made using Online.,order chair order return payment make use online,Negative
+ORD200553,Phone,Cancelled,I ordered a Phone and the order was Cancelled. Payment was made using Gift Card.,order phone order cancel payment make use gift card,Negative
+ORD200554,Laptop,Returned,I ordered a Laptop and the order was Returned. Payment was made using Cash.,order laptop order return payment make use cash,Negative
+ORD200555,Tablet,Shipped,I ordered a Tablet and the order was Shipped. Payment was made using Cash.,order tablet order ship payment make use cash,Positive
+ORD200558,Phone,Delivered,I ordered a Phone and the order was Delivered. Payment was made using Online.,order phone order deliver payment make use online,Positive
+ORD200559,Desk,Cancelled,I ordered a Desk and the order was Cancelled. Payment was made using Debit Card.,order desk order cancel payment make use debit card,Negative
+ORD200561,Printer,Shipped,I ordered a Printer and the order was Shipped. Payment was made using Online.,order printer order ship payment make use online,Positive
+ORD200562,Laptop,Returned,I ordered a Laptop and the order was Returned. Payment was made using Gift Card.,order laptop order return payment make use gift card,Negative
+ORD200563,Laptop,Returned,I ordered a Laptop and the order was Returned. Payment was made using Debit Card.,order laptop order return payment make use debit card,Negative
+ORD200564,Desk,Cancelled,I ordered a Desk and the order was Cancelled. Payment was made using Credit Card.,order desk order cancel payment make use credit card,Negative
+ORD200566,Phone,Cancelled,I ordered a Phone and the order was Cancelled. Payment was made using Cash.,order phone order cancel payment make use cash,Negative
+ORD200567,Chair,Shipped,I ordered a Chair and the order was Shipped. Payment was made using Cash.,order chair order ship payment make use cash,Positive
+ORD200568,Laptop,Delivered,I ordered a Laptop and the order was Delivered. Payment was made using Online.,order laptop order deliver payment make use online,Positive
+ORD200569,Desk,Shipped,I ordered a Desk and the order was Shipped. Payment was made using Cash.,order desk order ship payment make use cash,Positive
+ORD200571,Tablet,Returned,I ordered a Tablet and the order was Returned. Payment was made using Gift Card.,order tablet order return payment make use gift card,Negative
+ORD200572,Printer,Returned,I ordered a Printer and the order was Returned. Payment was made using Cash.,order printer order return payment make use cash,Negative
+ORD200573,Chair,Cancelled,I ordered a Chair and the order was Cancelled. Payment was made using Debit Card.,order chair order cancel payment make use debit card,Negative
+ORD200575,Chair,Returned,I ordered a Chair and the order was Returned. Payment was made using Gift Card.,order chair order return payment make use gift card,Negative
+ORD200577,Tablet,Returned,I ordered a Tablet and the order was Returned. Payment was made using Online.,order tablet order return payment make use online,Negative
+ORD200578,Monitor,Delivered,I ordered a Monitor and the order was Delivered. Payment was made using Credit Card.,order monitor order deliver payment make use credit card,Positive
+ORD200579,Tablet,Shipped,I ordered a Tablet and the order was Shipped. Payment was made using Online.,order tablet order ship payment make use online,Positive
+ORD200580,Monitor,Delivered,I ordered a Monitor and the order was Delivered. Payment was made using Credit Card.,order monitor order deliver payment make use credit card,Positive
+ORD200581,Laptop,Delivered,I ordered a Laptop and the order was Delivered. Payment was made using Online.,order laptop order deliver payment make use online,Positive
+ORD200582,Tablet,Shipped,I ordered a Tablet and the order was Shipped. Payment was made using Gift Card.,order tablet order ship payment make use gift card,Positive
+ORD200583,Chair,Delivered,I ordered a Chair and the order was Delivered. Payment was made using Gift Card.,order chair order deliver payment make use gift card,Positive
+ORD200584,Chair,Delivered,I ordered a Chair and the order was Delivered. Payment was made using Online.,order chair order deliver payment make use online,Positive
+ORD200585,Tablet,Returned,I ordered a Tablet and the order was Returned. Payment was made using Cash.,order tablet order return payment make use cash,Negative
+ORD200586,Monitor,Returned,I ordered a Monitor and the order was Returned. Payment was made using Gift Card.,order monitor order return payment make use gift card,Negative
+ORD200587,Monitor,Delivered,I ordered a Monitor and the order was Delivered. Payment was made using Gift Card.,order monitor order deliver payment make use gift card,Positive
+ORD200588,Monitor,Delivered,I ordered a Monitor and the order was Delivered. Payment was made using Credit Card.,order monitor order deliver payment make use credit card,Positive
+ORD200589,Laptop,Delivered,I ordered a Laptop and the order was Delivered. Payment was made using Cash.,order laptop order deliver payment make use cash,Positive
+ORD200590,Printer,Returned,I ordered a Printer and the order was Returned. Payment was made using Gift Card.,order printer order return payment make use gift card,Negative
+ORD200591,Laptop,Shipped,I ordered a Laptop and the order was Shipped. Payment was made using Gift Card.,order laptop order ship payment make use gift card,Positive
+ORD200592,Phone,Returned,I ordered a Phone and the order was Returned. Payment was made using Online.,order phone order return payment make use online,Negative
+ORD200593,Monitor,Shipped,I ordered a Monitor and the order was Shipped. Payment was made using Gift Card.,order monitor order ship payment make use gift card,Positive
+ORD200594,Phone,Cancelled,I ordered a Phone and the order was Cancelled. Payment was made using Credit Card.,order phone order cancel payment make use credit card,Negative
+ORD200596,Desk,Returned,I ordered a Desk and the order was Returned. Payment was made using Debit Card.,order desk order return payment make use debit card,Negative
+ORD200597,Desk,Cancelled,I ordered a Desk and the order was Cancelled. Payment was made using Gift Card.,order desk order cancel payment make use gift card,Negative
+ORD200599,Chair,Cancelled,I ordered a Chair and the order was Cancelled. Payment was made using Online.,order chair order cancel payment make use online,Negative
+ORD200600,Printer,Cancelled,I ordered a Printer and the order was Cancelled. Payment was made using Gift Card.,order printer order cancel payment make use gift card,Negative
+ORD200601,Monitor,Shipped,I ordered a Monitor and the order was Shipped. Payment was made using Credit Card.,order monitor order ship payment make use credit card,Positive
+ORD200604,Chair,Delivered,I ordered a Chair and the order was Delivered. Payment was made using Debit Card.,order chair order deliver payment make use debit card,Positive
+ORD200605,Monitor,Shipped,I ordered a Monitor and the order was Shipped. Payment was made using Debit Card.,order monitor order ship payment make use debit card,Positive
+ORD200606,Laptop,Cancelled,I ordered a Laptop and the order was Cancelled. Payment was made using Cash.,order laptop order cancel payment make use cash,Negative
+ORD200607,Printer,Shipped,I ordered a Printer and the order was Shipped. Payment was made using Cash.,order printer order ship payment make use cash,Positive
+ORD200608,Laptop,Cancelled,I ordered a Laptop and the order was Cancelled. Payment was made using Online.,order laptop order cancel payment make use online,Negative
+ORD200609,Chair,Returned,I ordered a Chair and the order was Returned. Payment was made using Cash.,order chair order return payment make use cash,Negative
+ORD200610,Desk,Returned,I ordered a Desk and the order was Returned. Payment was made using Cash.,order desk order return payment make use cash,Negative
+ORD200611,Desk,Returned,I ordered a Desk and the order was Returned. Payment was made using Gift Card.,order desk order return payment make use gift card,Negative
+ORD200612,Chair,Cancelled,I ordered a Chair and the order was Cancelled. Payment was made using Gift Card.,order chair order cancel payment make use gift card,Negative
+ORD200613,Laptop,Returned,I ordered a Laptop and the order was Returned. Payment was made using Online.,order laptop order return payment make use online,Negative
+ORD200614,Phone,Cancelled,I ordered a Phone and the order was Cancelled. Payment was made using Gift Card.,order phone order cancel payment make use gift card,Negative
+ORD200615,Monitor,Returned,I ordered a Monitor and the order was Returned. Payment was made using Credit Card.,order monitor order return payment make use credit card,Negative
+ORD200616,Tablet,Cancelled,I ordered a Tablet and the order was Cancelled. Payment was made using Credit Card.,order tablet order cancel payment make use credit card,Negative
+ORD200617,Tablet,Cancelled,I ordered a Tablet and the order was Cancelled. Payment was made using Online.,order tablet order cancel payment make use online,Negative
+ORD200618,Tablet,Returned,I ordered a Tablet and the order was Returned. Payment was made using Debit Card.,order tablet order return payment make use debit card,Negative
+ORD200620,Tablet,Returned,I ordered a Tablet and the order was Returned. Payment was made using Debit Card.,order tablet order return payment make use debit card,Negative
+ORD200621,Phone,Delivered,I ordered a Phone and the order was Delivered. Payment was made using Credit Card.,order phone order deliver payment make use credit card,Positive
+ORD200622,Desk,Returned,I ordered a Desk and the order was Returned. Payment was made using Credit Card.,order desk order return payment make use credit card,Negative
+ORD200623,Printer,Cancelled,I ordered a Printer and the order was Cancelled. Payment was made using Gift Card.,order printer order cancel payment make use gift card,Negative
+ORD200624,Tablet,Delivered,I ordered a Tablet and the order was Delivered. Payment was made using Debit Card.,order tablet order deliver payment make use debit card,Positive
+ORD200626,Tablet,Shipped,I ordered a Tablet and the order was Shipped. Payment was made using Online.,order tablet order ship payment make use online,Positive
+ORD200627,Chair,Returned,I ordered a Chair and the order was Returned. Payment was made using Online.,order chair order return payment make use online,Negative
+ORD200630,Monitor,Cancelled,I ordered a Monitor and the order was Cancelled. Payment was made using Debit Card.,order monitor order cancel payment make use debit card,Negative
+ORD200631,Chair,Returned,I ordered a Chair and the order was Returned. Payment was made using Gift Card.,order chair order return payment make use gift card,Negative
+ORD200632,Laptop,Delivered,I ordered a Laptop and the order was Delivered. Payment was made using Gift Card.,order laptop order deliver payment make use gift card,Positive
+ORD200633,Laptop,Cancelled,I ordered a Laptop and the order was Cancelled. Payment was made using Gift Card.,order laptop order cancel payment make use gift card,Negative
+ORD200634,Printer,Delivered,I ordered a Printer and the order was Delivered. Payment was made using Gift Card.,order printer order deliver payment make use gift card,Positive
+ORD200635,Chair,Returned,I ordered a Chair and the order was Returned. Payment was made using Cash.,order chair order return payment make use cash,Negative
+ORD200636,Laptop,Cancelled,I ordered a Laptop and the order was Cancelled. Payment was made using Cash.,order laptop order cancel payment make use cash,Negative
+ORD200637,Chair,Shipped,I ordered a Chair and the order was Shipped. Payment was made using Gift Card.,order chair order ship payment make use gift card,Positive
+ORD200638,Tablet,Delivered,I ordered a Tablet and the order was Delivered. Payment was made using Online.,order tablet order deliver payment make use online,Positive
+ORD200639,Chair,Cancelled,I ordered a Chair and the order was Cancelled. Payment was made using Cash.,order chair order cancel payment make use cash,Negative
+ORD200640,Chair,Returned,I ordered a Chair and the order was Returned. Payment was made using Gift Card.,order chair order return payment make use gift card,Negative
+ORD200642,Chair,Cancelled,I ordered a Chair and the order was Cancelled. Payment was made using Credit Card.,order chair order cancel payment make use credit card,Negative
+ORD200643,Laptop,Cancelled,I ordered a Laptop and the order was Cancelled. Payment was made using Cash.,order laptop order cancel payment make use cash,Negative
+ORD200644,Chair,Shipped,I ordered a Chair and the order was Shipped. Payment was made using Cash.,order chair order ship payment make use cash,Positive
+ORD200645,Laptop,Cancelled,I ordered a Laptop and the order was Cancelled. Payment was made using Credit Card.,order laptop order cancel payment make use credit card,Negative
+ORD200646,Chair,Shipped,I ordered a Chair and the order was Shipped. Payment was made using Debit Card.,order chair order ship payment make use debit card,Positive
+ORD200647,Desk,Returned,I ordered a Desk and the order was Returned. Payment was made using Cash.,order desk order return payment make use cash,Negative
+ORD200648,Monitor,Delivered,I ordered a Monitor and the order was Delivered. Payment was made using Online.,order monitor order deliver payment make use online,Positive
+ORD200649,Monitor,Returned,I ordered a Monitor and the order was Returned. Payment was made using Debit Card.,order monitor order return payment make use debit card,Negative
+ORD200650,Desk,Delivered,I ordered a Desk and the order was Delivered. Payment was made using Gift Card.,order desk order deliver payment make use gift card,Positive
+ORD200652,Chair,Shipped,I ordered a Chair and the order was Shipped. Payment was made using Online.,order chair order ship payment make use online,Positive
+ORD200653,Printer,Shipped,I ordered a Printer and the order was Shipped. Payment was made using Credit Card.,order printer order ship payment make use credit card,Positive
+ORD200654,Tablet,Returned,I ordered a Tablet and the order was Returned. Payment was made using Debit Card.,order tablet order return payment make use debit card,Negative
+ORD200655,Chair,Cancelled,I ordered a Chair and the order was Cancelled. Payment was made using Debit Card.,order chair order cancel payment make use debit card,Negative
+ORD200656,Monitor,Shipped,I ordered a Monitor and the order was Shipped. Payment was made using Gift Card.,order monitor order ship payment make use gift card,Positive
+ORD200657,Tablet,Cancelled,I ordered a Tablet and the order was Cancelled. Payment was made using Cash.,order tablet order cancel payment make use cash,Negative
+ORD200658,Printer,Returned,I ordered a Printer and the order was Returned. Payment was made using Gift Card.,order printer order return payment make use gift card,Negative
+ORD200659,Phone,Delivered,I ordered a Phone and the order was Delivered. Payment was made using Gift Card.,order phone order deliver payment make use gift card,Positive
+ORD200660,Chair,Shipped,I ordered a Chair and the order was Shipped. Payment was made using Debit Card.,order chair order ship payment make use debit card,Positive
+ORD200661,Tablet,Cancelled,I ordered a Tablet and the order was Cancelled. Payment was made using Debit Card.,order tablet order cancel payment make use debit card,Negative
+ORD200662,Laptop,Returned,I ordered a Laptop and the order was Returned. Payment was made using Cash.,order laptop order return payment make use cash,Negative
+ORD200663,Monitor,Cancelled,I ordered a Monitor and the order was Cancelled. Payment was made using Debit Card.,order monitor order cancel payment make use debit card,Negative
+ORD200664,Laptop,Shipped,I ordered a Laptop and the order was Shipped. Payment was made using Cash.,order laptop order ship payment make use cash,Positive
+ORD200665,Tablet,Shipped,I ordered a Tablet and the order was Shipped. Payment was made using Online.,order tablet order ship payment make use online,Positive
+ORD200666,Monitor,Cancelled,I ordered a Monitor and the order was Cancelled. Payment was made using Credit Card.,order monitor order cancel payment make use credit card,Negative
+ORD200668,Monitor,Returned,I ordered a Monitor and the order was Returned. Payment was made using Cash.,order monitor order return payment make use cash,Negative
+ORD200669,Desk,Cancelled,I ordered a Desk and the order was Cancelled. Payment was made using Debit Card.,order desk order cancel payment make use debit card,Negative
+ORD200671,Chair,Cancelled,I ordered a Chair and the order was Cancelled. Payment was made using Gift Card.,order chair order cancel payment make use gift card,Negative
+ORD200672,Phone,Shipped,I ordered a Phone and the order was Shipped. Payment was made using Debit Card.,order phone order ship payment make use debit card,Positive
+ORD200673,Tablet,Delivered,I ordered a Tablet and the order was Delivered. Payment was made using Credit Card.,order tablet order deliver payment make use credit card,Positive
+ORD200674,Laptop,Delivered,I ordered a Laptop and the order was Delivered. Payment was made using Gift Card.,order laptop order deliver payment make use gift card,Positive
+ORD200676,Laptop,Cancelled,I ordered a Laptop and the order was Cancelled. Payment was made using Credit Card.,order laptop order cancel payment make use credit card,Negative
+ORD200677,Tablet,Cancelled,I ordered a Tablet and the order was Cancelled. Payment was made using Online.,order tablet order cancel payment make use online,Negative
+ORD200678,Chair,Shipped,I ordered a Chair and the order was Shipped. Payment was made using Gift Card.,order chair order ship payment make use gift card,Positive
+ORD200679,Tablet,Returned,I ordered a Tablet and the order was Returned. Payment was made using Online.,order tablet order return payment make use online,Negative
+ORD200680,Monitor,Returned,I ordered a Monitor and the order was Returned. Payment was made using Credit Card.,order monitor order return payment make use credit card,Negative
+ORD200681,Tablet,Shipped,I ordered a Tablet and the order was Shipped. Payment was made using Debit Card.,order tablet order ship payment make use debit card,Positive
+ORD200682,Monitor,Cancelled,I ordered a Monitor and the order was Cancelled. Payment was made using Credit Card.,order monitor order cancel payment make use credit card,Negative
+ORD200684,Printer,Shipped,I ordered a Printer and the order was Shipped. Payment was made using Credit Card.,order printer order ship payment make use credit card,Positive
+ORD200685,Desk,Shipped,I ordered a Desk and the order was Shipped. Payment was made using Debit Card.,order desk order ship payment make use debit card,Positive
+ORD200687,Tablet,Returned,I ordered a Tablet and the order was Returned. Payment was made using Gift Card.,order tablet order return payment make use gift card,Negative
+ORD200688,Monitor,Cancelled,I ordered a Monitor and the order was Cancelled. Payment was made using Credit Card.,order monitor order cancel payment make use credit card,Negative
+ORD200689,Tablet,Shipped,I ordered a Tablet and the order was Shipped. Payment was made using Online.,order tablet order ship payment make use online,Positive
+ORD200690,Monitor,Returned,I ordered a Monitor and the order was Returned. Payment was made using Gift Card.,order monitor order return payment make use gift card,Negative
+ORD200691,Laptop,Shipped,I ordered a Laptop and the order was Shipped. Payment was made using Cash.,order laptop order ship payment make use cash,Positive
+ORD200692,Desk,Delivered,I ordered a Desk and the order was Delivered. Payment was made using Credit Card.,order desk order deliver payment make use credit card,Positive
+ORD200693,Monitor,Returned,I ordered a Monitor and the order was Returned. Payment was made using Debit Card.,order monitor order return payment make use debit card,Negative
+ORD200694,Printer,Shipped,I ordered a Printer and the order was Shipped. Payment was made using Cash.,order printer order ship payment make use cash,Positive
+ORD200695,Printer,Shipped,I ordered a Printer and the order was Shipped. Payment was made using Online.,order printer order ship payment make use online,Positive
+ORD200697,Printer,Shipped,I ordered a Printer and the order was Shipped. Payment was made using Cash.,order printer order ship payment make use cash,Positive
+ORD200698,Laptop,Delivered,I ordered a Laptop and the order was Delivered. Payment was made using Cash.,order laptop order deliver payment make use cash,Positive
+ORD200699,Laptop,Cancelled,I ordered a Laptop and the order was Cancelled. Payment was made using Gift Card.,order laptop order cancel payment make use gift card,Negative
+ORD200700,Laptop,Returned,I ordered a Laptop and the order was Returned. Payment was made using Cash.,order laptop order return payment make use cash,Negative
+ORD200701,Monitor,Delivered,I ordered a Monitor and the order was Delivered. Payment was made using Credit Card.,order monitor order deliver payment make use credit card,Positive
+ORD200702,Printer,Returned,I ordered a Printer and the order was Returned. Payment was made using Debit Card.,order printer order return payment make use debit card,Negative
+ORD200704,Desk,Delivered,I ordered a Desk and the order was Delivered. Payment was made using Online.,order desk order deliver payment make use online,Positive
+ORD200705,Monitor,Returned,I ordered a Monitor and the order was Returned. Payment was made using Debit Card.,order monitor order return payment make use debit card,Negative
+ORD200706,Desk,Returned,I ordered a Desk and the order was Returned. Payment was made using Gift Card.,order desk order return payment make use gift card,Negative
+ORD200707,Chair,Cancelled,I ordered a Chair and the order was Cancelled. Payment was made using Gift Card.,order chair order cancel payment make use gift card,Negative
+ORD200710,Laptop,Returned,I ordered a Laptop and the order was Returned. Payment was made using Gift Card.,order laptop order return payment make use gift card,Negative
+ORD200711,Tablet,Shipped,I ordered a Tablet and the order was Shipped. Payment was made using Online.,order tablet order ship payment make use online,Positive
+ORD200713,Tablet,Cancelled,I ordered a Tablet and the order was Cancelled. Payment was made using Online.,order tablet order cancel payment make use online,Negative
+ORD200715,Printer,Delivered,I ordered a Printer and the order was Delivered. Payment was made using Online.,order printer order deliver payment make use online,Positive
+ORD200717,Chair,Delivered,I ordered a Chair and the order was Delivered. Payment was made using Online.,order chair order deliver payment make use online,Positive
+ORD200718,Laptop,Cancelled,I ordered a Laptop and the order was Cancelled. Payment was made using Gift Card.,order laptop order cancel payment make use gift card,Negative
+ORD200719,Laptop,Shipped,I ordered a Laptop and the order was Shipped. Payment was made using Debit Card.,order laptop order ship payment make use debit card,Positive
+ORD200721,Desk,Delivered,I ordered a Desk and the order was Delivered. Payment was made using Credit Card.,order desk order deliver payment make use credit card,Positive
+ORD200723,Desk,Returned,I ordered a Desk and the order was Returned. Payment was made using Cash.,order desk order return payment make use cash,Negative
+ORD200724,Printer,Returned,I ordered a Printer and the order was Returned. Payment was made using Credit Card.,order printer order return payment make use credit card,Negative
+ORD200725,Chair,Returned,I ordered a Chair and the order was Returned. Payment was made using Gift Card.,order chair order return payment make use gift card,Negative
+ORD200726,Laptop,Delivered,I ordered a Laptop and the order was Delivered. Payment was made using Online.,order laptop order deliver payment make use online,Positive
+ORD200727,Chair,Shipped,I ordered a Chair and the order was Shipped. Payment was made using Online.,order chair order ship payment make use online,Positive
+ORD200728,Desk,Shipped,I ordered a Desk and the order was Shipped. Payment was made using Gift Card.,order desk order ship payment make use gift card,Positive
+ORD200730,Phone,Delivered,I ordered a Phone and the order was Delivered. Payment was made using Debit Card.,order phone order deliver payment make use debit card,Positive
+ORD200731,Printer,Returned,I ordered a Printer and the order was Returned. Payment was made using Credit Card.,order printer order return payment make use credit card,Negative
+ORD200732,Laptop,Delivered,I ordered a Laptop and the order was Delivered. Payment was made using Online.,order laptop order deliver payment make use online,Positive
+ORD200733,Tablet,Returned,I ordered a Tablet and the order was Returned. Payment was made using Cash.,order tablet order return payment make use cash,Negative
+ORD200734,Printer,Returned,I ordered a Printer and the order was Returned. Payment was made using Credit Card.,order printer order return payment make use credit card,Negative
+ORD200738,Phone,Shipped,I ordered a Phone and the order was Shipped. Payment was made using Credit Card.,order phone order ship payment make use credit card,Positive
+ORD200739,Phone,Delivered,I ordered a Phone and the order was Delivered. Payment was made using Cash.,order phone order deliver payment make use cash,Positive
+ORD200741,Monitor,Delivered,I ordered a Monitor and the order was Delivered. Payment was made using Gift Card.,order monitor order deliver payment make use gift card,Positive
+ORD200742,Laptop,Returned,I ordered a Laptop and the order was Returned. Payment was made using Cash.,order laptop order return payment make use cash,Negative
+ORD200743,Monitor,Returned,I ordered a Monitor and the order was Returned. Payment was made using Gift Card.,order monitor order return payment make use gift card,Negative
+ORD200744,Tablet,Delivered,I ordered a Tablet and the order was Delivered. Payment was made using Cash.,order tablet order deliver payment make use cash,Positive
+ORD200746,Desk,Cancelled,I ordered a Desk and the order was Cancelled. Payment was made using Online.,order desk order cancel payment make use online,Negative
+ORD200747,Tablet,Delivered,I ordered a Tablet and the order was Delivered. Payment was made using Debit Card.,order tablet order deliver payment make use debit card,Positive
+ORD200748,Tablet,Shipped,I ordered a Tablet and the order was Shipped. Payment was made using Credit Card.,order tablet order ship payment make use credit card,Positive
+ORD200750,Tablet,Returned,I ordered a Tablet and the order was Returned. Payment was made using Credit Card.,order tablet order return payment make use credit card,Negative
+ORD200752,Phone,Delivered,I ordered a Phone and the order was Delivered. Payment was made using Credit Card.,order phone order deliver payment make use credit card,Positive
+ORD200753,Phone,Returned,I ordered a Phone and the order was Returned. Payment was made using Debit Card.,order phone order return payment make use debit card,Negative
+ORD200754,Printer,Returned,I ordered a Printer and the order was Returned. Payment was made using Credit Card.,order printer order return payment make use credit card,Negative
+ORD200756,Phone,Shipped,I ordered a Phone and the order was Shipped. Payment was made using Gift Card.,order phone order ship payment make use gift card,Positive
+ORD200757,Desk,Delivered,I ordered a Desk and the order was Delivered. Payment was made using Debit Card.,order desk order deliver payment make use debit card,Positive
+ORD200758,Tablet,Cancelled,I ordered a Tablet and the order was Cancelled. Payment was made using Credit Card.,order tablet order cancel payment make use credit card,Negative
+ORD200760,Desk,Cancelled,I ordered a Desk and the order was Cancelled. Payment was made using Debit Card.,order desk order cancel payment make use debit card,Negative
+ORD200761,Desk,Delivered,I ordered a Desk and the order was Delivered. Payment was made using Debit Card.,order desk order deliver payment make use debit card,Positive
+ORD200762,Phone,Returned,I ordered a Phone and the order was Returned. Payment was made using Cash.,order phone order return payment make use cash,Negative
+ORD200763,Laptop,Delivered,I ordered a Laptop and the order was Delivered. Payment was made using Online.,order laptop order deliver payment make use online,Positive
+ORD200764,Laptop,Cancelled,I ordered a Laptop and the order was Cancelled. Payment was made using Credit Card.,order laptop order cancel payment make use credit card,Negative
+ORD200765,Laptop,Returned,I ordered a Laptop and the order was Returned. Payment was made using Debit Card.,order laptop order return payment make use debit card,Negative
+ORD200767,Tablet,Delivered,I ordered a Tablet and the order was Delivered. Payment was made using Credit Card.,order tablet order deliver payment make use credit card,Positive
+ORD200768,Tablet,Cancelled,I ordered a Tablet and the order was Cancelled. Payment was made using Cash.,order tablet order cancel payment make use cash,Negative
+ORD200769,Printer,Delivered,I ordered a Printer and the order was Delivered. Payment was made using Cash.,order printer order deliver payment make use cash,Positive
+ORD200770,Desk,Returned,I ordered a Desk and the order was Returned. Payment was made using Online.,order desk order return payment make use online,Negative
+ORD200771,Phone,Cancelled,I ordered a Phone and the order was Cancelled. Payment was made using Debit Card.,order phone order cancel payment make use debit card,Negative
+ORD200772,Monitor,Delivered,I ordered a Monitor and the order was Delivered. Payment was made using Online.,order monitor order deliver payment make use online,Positive
+ORD200773,Phone,Cancelled,I ordered a Phone and the order was Cancelled. Payment was made using Cash.,order phone order cancel payment make use cash,Negative
+ORD200774,Chair,Cancelled,I ordered a Chair and the order was Cancelled. Payment was made using Credit Card.,order chair order cancel payment make use credit card,Negative
+ORD200775,Phone,Cancelled,I ordered a Phone and the order was Cancelled. Payment was made using Online.,order phone order cancel payment make use online,Negative
+ORD200776,Tablet,Returned,I ordered a Tablet and the order was Returned. Payment was made using Cash.,order tablet order return payment make use cash,Negative
+ORD200777,Chair,Cancelled,I ordered a Chair and the order was Cancelled. Payment was made using Online.,order chair order cancel payment make use online,Negative
+ORD200778,Laptop,Shipped,I ordered a Laptop and the order was Shipped. Payment was made using Credit Card.,order laptop order ship payment make use credit card,Positive
+ORD200780,Laptop,Cancelled,I ordered a Laptop and the order was Cancelled. Payment was made using Online.,order laptop order cancel payment make use online,Negative
+ORD200781,Phone,Delivered,I ordered a Phone and the order was Delivered. Payment was made using Gift Card.,order phone order deliver payment make use gift card,Positive
+ORD200782,Monitor,Returned,I ordered a Monitor and the order was Returned. Payment was made using Online.,order monitor order return payment make use online,Negative
+ORD200783,Printer,Returned,I ordered a Printer and the order was Returned. Payment was made using Gift Card.,order printer order return payment make use gift card,Negative
+ORD200786,Chair,Cancelled,I ordered a Chair and the order was Cancelled. Payment was made using Online.,order chair order cancel payment make use online,Negative
+ORD200787,Desk,Delivered,I ordered a Desk and the order was Delivered. Payment was made using Cash.,order desk order deliver payment make use cash,Positive
+ORD200789,Tablet,Delivered,I ordered a Tablet and the order was Delivered. Payment was made using Online.,order tablet order deliver payment make use online,Positive
+ORD200792,Desk,Returned,I ordered a Desk and the order was Returned. Payment was made using Debit Card.,order desk order return payment make use debit card,Negative
+ORD200793,Chair,Delivered,I ordered a Chair and the order was Delivered. Payment was made using Debit Card.,order chair order deliver payment make use debit card,Positive
+ORD200794,Printer,Delivered,I ordered a Printer and the order was Delivered. Payment was made using Online.,order printer order deliver payment make use online,Positive
+ORD200796,Phone,Returned,I ordered a Phone and the order was Returned. Payment was made using Gift Card.,order phone order return payment make use gift card,Negative
+ORD200797,Laptop,Returned,I ordered a Laptop and the order was Returned. Payment was made using Debit Card.,order laptop order return payment make use debit card,Negative
+ORD200798,Phone,Returned,I ordered a Phone and the order was Returned. Payment was made using Debit Card.,order phone order return payment make use debit card,Negative
+ORD200799,Laptop,Returned,I ordered a Laptop and the order was Returned. Payment was made using Debit Card.,order laptop order return payment make use debit card,Negative
+ORD200800,Tablet,Returned,I ordered a Tablet and the order was Returned. Payment was made using Online.,order tablet order return payment make use online,Negative
+ORD200802,Chair,Cancelled,I ordered a Chair and the order was Cancelled. Payment was made using Gift Card.,order chair order cancel payment make use gift card,Negative
+ORD200803,Monitor,Returned,I ordered a Monitor and the order was Returned. Payment was made using Debit Card.,order monitor order return payment make use debit card,Negative
+ORD200804,Chair,Delivered,I ordered a Chair and the order was Delivered. Payment was made using Online.,order chair order deliver payment make use online,Positive
+ORD200805,Laptop,Cancelled,I ordered a Laptop and the order was Cancelled. Payment was made using Gift Card.,order laptop order cancel payment make use gift card,Negative
+ORD200807,Monitor,Delivered,I ordered a Monitor and the order was Delivered. Payment was made using Online.,order monitor order deliver payment make use online,Positive
+ORD200808,Desk,Shipped,I ordered a Desk and the order was Shipped. Payment was made using Credit Card.,order desk order ship payment make use credit card,Positive
+ORD200809,Desk,Shipped,I ordered a Desk and the order was Shipped. Payment was made using Debit Card.,order desk order ship payment make use debit card,Positive
+ORD200810,Tablet,Cancelled,I ordered a Tablet and the order was Cancelled. Payment was made using Credit Card.,order tablet order cancel payment make use credit card,Negative
+ORD200811,Laptop,Shipped,I ordered a Laptop and the order was Shipped. Payment was made using Gift Card.,order laptop order ship payment make use gift card,Positive
+ORD200812,Phone,Cancelled,I ordered a Phone and the order was Cancelled. Payment was made using Credit Card.,order phone order cancel payment make use credit card,Negative
+ORD200813,Laptop,Cancelled,I ordered a Laptop and the order was Cancelled. Payment was made using Debit Card.,order laptop order cancel payment make use debit card,Negative
+ORD200815,Printer,Cancelled,I ordered a Printer and the order was Cancelled. Payment was made using Gift Card.,order printer order cancel payment make use gift card,Negative
+ORD200817,Chair,Delivered,I ordered a Chair and the order was Delivered. Payment was made using Credit Card.,order chair order deliver payment make use credit card,Positive
+ORD200818,Phone,Cancelled,I ordered a Phone and the order was Cancelled. Payment was made using Credit Card.,order phone order cancel payment make use credit card,Negative
+ORD200819,Phone,Cancelled,I ordered a Phone and the order was Cancelled. Payment was made using Debit Card.,order phone order cancel payment make use debit card,Negative
+ORD200820,Phone,Returned,I ordered a Phone and the order was Returned. Payment was made using Cash.,order phone order return payment make use cash,Negative
+ORD200821,Laptop,Delivered,I ordered a Laptop and the order was Delivered. Payment was made using Credit Card.,order laptop order deliver payment make use credit card,Positive
+ORD200822,Phone,Returned,I ordered a Phone and the order was Returned. Payment was made using Gift Card.,order phone order return payment make use gift card,Negative
+ORD200823,Laptop,Shipped,I ordered a Laptop and the order was Shipped. Payment was made using Credit Card.,order laptop order ship payment make use credit card,Positive
+ORD200824,Monitor,Returned,I ordered a Monitor and the order was Returned. Payment was made using Credit Card.,order monitor order return payment make use credit card,Negative
+ORD200825,Desk,Returned,I ordered a Desk and the order was Returned. Payment was made using Online.,order desk order return payment make use online,Negative
+ORD200826,Printer,Returned,I ordered a Printer and the order was Returned. Payment was made using Online.,order printer order return payment make use online,Negative
+ORD200827,Tablet,Delivered,I ordered a Tablet and the order was Delivered. Payment was made using Cash.,order tablet order deliver payment make use cash,Positive
+ORD200828,Chair,Shipped,I ordered a Chair and the order was Shipped. Payment was made using Cash.,order chair order ship payment make use cash,Positive
+ORD200829,Monitor,Delivered,I ordered a Monitor and the order was Delivered. Payment was made using Debit Card.,order monitor order deliver payment make use debit card,Positive
+ORD200830,Tablet,Delivered,I ordered a Tablet and the order was Delivered. Payment was made using Cash.,order tablet order deliver payment make use cash,Positive
+ORD200833,Phone,Shipped,I ordered a Phone and the order was Shipped. Payment was made using Credit Card.,order phone order ship payment make use credit card,Positive
+ORD200834,Printer,Returned,I ordered a Printer and the order was Returned. Payment was made using Cash.,order printer order return payment make use cash,Negative
+ORD200835,Desk,Shipped,I ordered a Desk and the order was Shipped. Payment was made using Debit Card.,order desk order ship payment make use debit card,Positive
+ORD200836,Phone,Cancelled,I ordered a Phone and the order was Cancelled. Payment was made using Credit Card.,order phone order cancel payment make use credit card,Negative
+ORD200837,Chair,Delivered,I ordered a Chair and the order was Delivered. Payment was made using Online.,order chair order deliver payment make use online,Positive
+ORD200839,Chair,Cancelled,I ordered a Chair and the order was Cancelled. Payment was made using Online.,order chair order cancel payment make use online,Negative
+ORD200840,Chair,Delivered,I ordered a Chair and the order was Delivered. Payment was made using Credit Card.,order chair order deliver payment make use credit card,Positive
+ORD200841,Printer,Delivered,I ordered a Printer and the order was Delivered. Payment was made using Credit Card.,order printer order deliver payment make use credit card,Positive
+ORD200843,Desk,Cancelled,I ordered a Desk and the order was Cancelled. Payment was made using Gift Card.,order desk order cancel payment make use gift card,Negative
+ORD200844,Chair,Returned,I ordered a Chair and the order was Returned. Payment was made using Online.,order chair order return payment make use online,Negative
+ORD200845,Phone,Delivered,I ordered a Phone and the order was Delivered. Payment was made using Gift Card.,order phone order deliver payment make use gift card,Positive
+ORD200846,Desk,Cancelled,I ordered a Desk and the order was Cancelled. Payment was made using Debit Card.,order desk order cancel payment make use debit card,Negative
+ORD200847,Printer,Shipped,I ordered a Printer and the order was Shipped. Payment was made using Online.,order printer order ship payment make use online,Positive
+ORD200848,Chair,Shipped,I ordered a Chair and the order was Shipped. Payment was made using Online.,order chair order ship payment make use online,Positive
+ORD200849,Printer,Cancelled,I ordered a Printer and the order was Cancelled. Payment was made using Debit Card.,order printer order cancel payment make use debit card,Negative
+ORD200850,Monitor,Cancelled,I ordered a Monitor and the order was Cancelled. Payment was made using Debit Card.,order monitor order cancel payment make use debit card,Negative
+ORD200851,Laptop,Cancelled,I ordered a Laptop and the order was Cancelled. Payment was made using Online.,order laptop order cancel payment make use online,Negative
+ORD200853,Printer,Returned,I ordered a Printer and the order was Returned. Payment was made using Cash.,order printer order return payment make use cash,Negative
+ORD200854,Laptop,Delivered,I ordered a Laptop and the order was Delivered. Payment was made using Credit Card.,order laptop order deliver payment make use credit card,Positive
+ORD200855,Monitor,Shipped,I ordered a Monitor and the order was Shipped. Payment was made using Credit Card.,order monitor order ship payment make use credit card,Positive
+ORD200856,Phone,Shipped,I ordered a Phone and the order was Shipped. Payment was made using Debit Card.,order phone order ship payment make use debit card,Positive
+ORD200857,Phone,Delivered,I ordered a Phone and the order was Delivered. Payment was made using Online.,order phone order deliver payment make use online,Positive
+ORD200859,Chair,Returned,I ordered a Chair and the order was Returned. Payment was made using Credit Card.,order chair order return payment make use credit card,Negative
+ORD200860,Printer,Delivered,I ordered a Printer and the order was Delivered. Payment was made using Cash.,order printer order deliver payment make use cash,Positive
+ORD200861,Desk,Shipped,I ordered a Desk and the order was Shipped. Payment was made using Gift Card.,order desk order ship payment make use gift card,Positive
+ORD200862,Desk,Shipped,I ordered a Desk and the order was Shipped. Payment was made using Credit Card.,order desk order ship payment make use credit card,Positive
+ORD200864,Desk,Delivered,I ordered a Desk and the order was Delivered. Payment was made using Credit Card.,order desk order deliver payment make use credit card,Positive
+ORD200866,Desk,Cancelled,I ordered a Desk and the order was Cancelled. Payment was made using Debit Card.,order desk order cancel payment make use debit card,Negative
+ORD200867,Printer,Delivered,I ordered a Printer and the order was Delivered. Payment was made using Cash.,order printer order deliver payment make use cash,Positive
+ORD200868,Monitor,Delivered,I ordered a Monitor and the order was Delivered. Payment was made using Debit Card.,order monitor order deliver payment make use debit card,Positive
+ORD200869,Desk,Delivered,I ordered a Desk and the order was Delivered. Payment was made using Online.,order desk order deliver payment make use online,Positive
+ORD200870,Phone,Delivered,I ordered a Phone and the order was Delivered. Payment was made using Debit Card.,order phone order deliver payment make use debit card,Positive
+ORD200872,Chair,Shipped,I ordered a Chair and the order was Shipped. Payment was made using Cash.,order chair order ship payment make use cash,Positive
+ORD200873,Desk,Delivered,I ordered a Desk and the order was Delivered. Payment was made using Cash.,order desk order deliver payment make use cash,Positive
+ORD200874,Chair,Delivered,I ordered a Chair and the order was Delivered. Payment was made using Cash.,order chair order deliver payment make use cash,Positive
+ORD200875,Laptop,Delivered,I ordered a Laptop and the order was Delivered. Payment was made using Credit Card.,order laptop order deliver payment make use credit card,Positive
+ORD200878,Desk,Cancelled,I ordered a Desk and the order was Cancelled. Payment was made using Online.,order desk order cancel payment make use online,Negative
+ORD200879,Phone,Shipped,I ordered a Phone and the order was Shipped. Payment was made using Gift Card.,order phone order ship payment make use gift card,Positive
+ORD200880,Laptop,Shipped,I ordered a Laptop and the order was Shipped. Payment was made using Online.,order laptop order ship payment make use online,Positive
+ORD200882,Phone,Delivered,I ordered a Phone and the order was Delivered. Payment was made using Cash.,order phone order deliver payment make use cash,Positive
+ORD200883,Printer,Delivered,I ordered a Printer and the order was Delivered. Payment was made using Online.,order printer order deliver payment make use online,Positive
+ORD200884,Chair,Shipped,I ordered a Chair and the order was Shipped. Payment was made using Gift Card.,order chair order ship payment make use gift card,Positive
+ORD200885,Laptop,Shipped,I ordered a Laptop and the order was Shipped. Payment was made using Credit Card.,order laptop order ship payment make use credit card,Positive
+ORD200886,Phone,Returned,I ordered a Phone and the order was Returned. Payment was made using Credit Card.,order phone order return payment make use credit card,Negative
+ORD200887,Chair,Delivered,I ordered a Chair and the order was Delivered. Payment was made using Debit Card.,order chair order deliver payment make use debit card,Positive
+ORD200889,Monitor,Cancelled,I ordered a Monitor and the order was Cancelled. Payment was made using Credit Card.,order monitor order cancel payment make use credit card,Negative
+ORD200891,Monitor,Returned,I ordered a Monitor and the order was Returned. Payment was made using Cash.,order monitor order return payment make use cash,Negative
+ORD200892,Desk,Shipped,I ordered a Desk and the order was Shipped. Payment was made using Cash.,order desk order ship payment make use cash,Positive
+ORD200894,Tablet,Cancelled,I ordered a Tablet and the order was Cancelled. Payment was made using Online.,order tablet order cancel payment make use online,Negative
+ORD200896,Desk,Shipped,I ordered a Desk and the order was Shipped. Payment was made using Gift Card.,order desk order ship payment make use gift card,Positive
+ORD200897,Laptop,Delivered,I ordered a Laptop and the order was Delivered. Payment was made using Gift Card.,order laptop order deliver payment make use gift card,Positive
+ORD200898,Monitor,Shipped,I ordered a Monitor and the order was Shipped. Payment was made using Cash.,order monitor order ship payment make use cash,Positive
+ORD200901,Tablet,Returned,I ordered a Tablet and the order was Returned. Payment was made using Debit Card.,order tablet order return payment make use debit card,Negative
+ORD200902,Monitor,Cancelled,I ordered a Monitor and the order was Cancelled. Payment was made using Debit Card.,order monitor order cancel payment make use debit card,Negative
+ORD200904,Monitor,Cancelled,I ordered a Monitor and the order was Cancelled. Payment was made using Cash.,order monitor order cancel payment make use cash,Negative
+ORD200906,Monitor,Returned,I ordered a Monitor and the order was Returned. Payment was made using Cash.,order monitor order return payment make use cash,Negative
+ORD200907,Desk,Cancelled,I ordered a Desk and the order was Cancelled. Payment was made using Gift Card.,order desk order cancel payment make use gift card,Negative
+ORD200908,Desk,Cancelled,I ordered a Desk and the order was Cancelled. Payment was made using Credit Card.,order desk order cancel payment make use credit card,Negative
+ORD200909,Tablet,Shipped,I ordered a Tablet and the order was Shipped. Payment was made using Cash.,order tablet order ship payment make use cash,Positive
+ORD200910,Printer,Delivered,I ordered a Printer and the order was Delivered. Payment was made using Cash.,order printer order deliver payment make use cash,Positive
+ORD200911,Desk,Cancelled,I ordered a Desk and the order was Cancelled. Payment was made using Cash.,order desk order cancel payment make use cash,Negative
+ORD200912,Desk,Returned,I ordered a Desk and the order was Returned. Payment was made using Online.,order desk order return payment make use online,Negative
+ORD200913,Printer,Returned,I ordered a Printer and the order was Returned. Payment was made using Credit Card.,order printer order return payment make use credit card,Negative
+ORD200914,Desk,Returned,I ordered a Desk and the order was Returned. Payment was made using Gift Card.,order desk order return payment make use gift card,Negative
+ORD200915,Laptop,Shipped,I ordered a Laptop and the order was Shipped. Payment was made using Debit Card.,order laptop order ship payment make use debit card,Positive
+ORD200916,Printer,Returned,I ordered a Printer and the order was Returned. Payment was made using Cash.,order printer order return payment make use cash,Negative
+ORD200917,Laptop,Returned,I ordered a Laptop and the order was Returned. Payment was made using Credit Card.,order laptop order return payment make use credit card,Negative
+ORD200918,Laptop,Delivered,I ordered a Laptop and the order was Delivered. Payment was made using Online.,order laptop order deliver payment make use online,Positive
+ORD200919,Printer,Shipped,I ordered a Printer and the order was Shipped. Payment was made using Online.,order printer order ship payment make use online,Positive
+ORD200920,Tablet,Returned,I ordered a Tablet and the order was Returned. Payment was made using Credit Card.,order tablet order return payment make use credit card,Negative
+ORD200921,Tablet,Cancelled,I ordered a Tablet and the order was Cancelled. Payment was made using Gift Card.,order tablet order cancel payment make use gift card,Negative
+ORD200924,Printer,Returned,I ordered a Printer and the order was Returned. Payment was made using Cash.,order printer order return payment make use cash,Negative
+ORD200925,Monitor,Shipped,I ordered a Monitor and the order was Shipped. Payment was made using Online.,order monitor order ship payment make use online,Positive
+ORD200926,Desk,Delivered,I ordered a Desk and the order was Delivered. Payment was made using Cash.,order desk order deliver payment make use cash,Positive
+ORD200927,Laptop,Shipped,I ordered a Laptop and the order was Shipped. Payment was made using Debit Card.,order laptop order ship payment make use debit card,Positive
+ORD200928,Laptop,Returned,I ordered a Laptop and the order was Returned. Payment was made using Debit Card.,order laptop order return payment make use debit card,Negative
+ORD200930,Phone,Returned,I ordered a Phone and the order was Returned. Payment was made using Debit Card.,order phone order return payment make use debit card,Negative
+ORD200931,Printer,Cancelled,I ordered a Printer and the order was Cancelled. Payment was made using Credit Card.,order printer order cancel payment make use credit card,Negative
+ORD200932,Laptop,Delivered,I ordered a Laptop and the order was Delivered. Payment was made using Online.,order laptop order deliver payment make use online,Positive
+ORD200933,Monitor,Shipped,I ordered a Monitor and the order was Shipped. Payment was made using Online.,order monitor order ship payment make use online,Positive
+ORD200934,Laptop,Shipped,I ordered a Laptop and the order was Shipped. Payment was made using Gift Card.,order laptop order ship payment make use gift card,Positive
+ORD200935,Phone,Delivered,I ordered a Phone and the order was Delivered. Payment was made using Credit Card.,order phone order deliver payment make use credit card,Positive
+ORD200936,Chair,Delivered,I ordered a Chair and the order was Delivered. Payment was made using Online.,order chair order deliver payment make use online,Positive
+ORD200937,Chair,Cancelled,I ordered a Chair and the order was Cancelled. Payment was made using Debit Card.,order chair order cancel payment make use debit card,Negative
+ORD200938,Chair,Cancelled,I ordered a Chair and the order was Cancelled. Payment was made using Credit Card.,order chair order cancel payment make use credit card,Negative
+ORD200939,Laptop,Delivered,I ordered a Laptop and the order was Delivered. Payment was made using Cash.,order laptop order deliver payment make use cash,Positive
+ORD200940,Printer,Cancelled,I ordered a Printer and the order was Cancelled. Payment was made using Online.,order printer order cancel payment make use online,Negative
+ORD200941,Printer,Cancelled,I ordered a Printer and the order was Cancelled. Payment was made using Credit Card.,order printer order cancel payment make use credit card,Negative
+ORD200943,Monitor,Returned,I ordered a Monitor and the order was Returned. Payment was made using Gift Card.,order monitor order return payment make use gift card,Negative
+ORD200944,Laptop,Delivered,I ordered a Laptop and the order was Delivered. Payment was made using Online.,order laptop order deliver payment make use online,Positive
+ORD200945,Tablet,Shipped,I ordered a Tablet and the order was Shipped. Payment was made using Gift Card.,order tablet order ship payment make use gift card,Positive
+ORD200946,Phone,Shipped,I ordered a Phone and the order was Shipped. Payment was made using Cash.,order phone order ship payment make use cash,Positive
+ORD200947,Phone,Returned,I ordered a Phone and the order was Returned. Payment was made using Online.,order phone order return payment make use online,Negative
+ORD200948,Phone,Cancelled,I ordered a Phone and the order was Cancelled. Payment was made using Gift Card.,order phone order cancel payment make use gift card,Negative
+ORD200950,Laptop,Returned,I ordered a Laptop and the order was Returned. Payment was made using Credit Card.,order laptop order return payment make use credit card,Negative
+ORD200951,Printer,Returned,I ordered a Printer and the order was Returned. Payment was made using Online.,order printer order return payment make use online,Negative
+ORD200953,Phone,Shipped,I ordered a Phone and the order was Shipped. Payment was made using Cash.,order phone order ship payment make use cash,Positive
+ORD200954,Chair,Shipped,I ordered a Chair and the order was Shipped. Payment was made using Gift Card.,order chair order ship payment make use gift card,Positive
+ORD200955,Chair,Shipped,I ordered a Chair and the order was Shipped. Payment was made using Gift Card.,order chair order ship payment make use gift card,Positive
+ORD200956,Phone,Delivered,I ordered a Phone and the order was Delivered. Payment was made using Debit Card.,order phone order deliver payment make use debit card,Positive
+ORD200957,Monitor,Returned,I ordered a Monitor and the order was Returned. Payment was made using Cash.,order monitor order return payment make use cash,Negative
+ORD200958,Desk,Delivered,I ordered a Desk and the order was Delivered. Payment was made using Gift Card.,order desk order deliver payment make use gift card,Positive
+ORD200959,Tablet,Returned,I ordered a Tablet and the order was Returned. Payment was made using Credit Card.,order tablet order return payment make use credit card,Negative
+ORD200961,Phone,Shipped,I ordered a Phone and the order was Shipped. Payment was made using Online.,order phone order ship payment make use online,Positive
+ORD200962,Phone,Delivered,I ordered a Phone and the order was Delivered. Payment was made using Gift Card.,order phone order deliver payment make use gift card,Positive
+ORD200963,Chair,Shipped,I ordered a Chair and the order was Shipped. Payment was made using Online.,order chair order ship payment make use online,Positive
+ORD200964,Phone,Cancelled,I ordered a Phone and the order was Cancelled. Payment was made using Credit Card.,order phone order cancel payment make use credit card,Negative
+ORD200965,Laptop,Cancelled,I ordered a Laptop and the order was Cancelled. Payment was made using Gift Card.,order laptop order cancel payment make use gift card,Negative
+ORD200966,Monitor,Cancelled,I ordered a Monitor and the order was Cancelled. Payment was made using Credit Card.,order monitor order cancel payment make use credit card,Negative
+ORD200967,Tablet,Returned,I ordered a Tablet and the order was Returned. Payment was made using Credit Card.,order tablet order return payment make use credit card,Negative
+ORD200968,Monitor,Shipped,I ordered a Monitor and the order was Shipped. Payment was made using Credit Card.,order monitor order ship payment make use credit card,Positive
+ORD200969,Desk,Shipped,I ordered a Desk and the order was Shipped. Payment was made using Gift Card.,order desk order ship payment make use gift card,Positive
+ORD200970,Desk,Delivered,I ordered a Desk and the order was Delivered. Payment was made using Cash.,order desk order deliver payment make use cash,Positive
+ORD200971,Monitor,Cancelled,I ordered a Monitor and the order was Cancelled. Payment was made using Cash.,order monitor order cancel payment make use cash,Negative
+ORD200972,Laptop,Delivered,I ordered a Laptop and the order was Delivered. Payment was made using Cash.,order laptop order deliver payment make use cash,Positive
+ORD200974,Desk,Cancelled,I ordered a Desk and the order was Cancelled. Payment was made using Gift Card.,order desk order cancel payment make use gift card,Negative
+ORD200975,Desk,Returned,I ordered a Desk and the order was Returned. Payment was made using Gift Card.,order desk order return payment make use gift card,Negative
+ORD200976,Tablet,Returned,I ordered a Tablet and the order was Returned. Payment was made using Credit Card.,order tablet order return payment make use credit card,Negative
+ORD200978,Printer,Delivered,I ordered a Printer and the order was Delivered. Payment was made using Cash.,order printer order deliver payment make use cash,Positive
+ORD200979,Monitor,Delivered,I ordered a Monitor and the order was Delivered. Payment was made using Cash.,order monitor order deliver payment make use cash,Positive
+ORD200980,Chair,Delivered,I ordered a Chair and the order was Delivered. Payment was made using Cash.,order chair order deliver payment make use cash,Positive
+ORD200982,Monitor,Shipped,I ordered a Monitor and the order was Shipped. Payment was made using Gift Card.,order monitor order ship payment make use gift card,Positive
+ORD200983,Monitor,Shipped,I ordered a Monitor and the order was Shipped. Payment was made using Gift Card.,order monitor order ship payment make use gift card,Positive
+ORD200984,Desk,Shipped,I ordered a Desk and the order was Shipped. Payment was made using Credit Card.,order desk order ship payment make use credit card,Positive
+ORD200985,Desk,Delivered,I ordered a Desk and the order was Delivered. Payment was made using Gift Card.,order desk order deliver payment make use gift card,Positive
+ORD200988,Desk,Cancelled,I ordered a Desk and the order was Cancelled. Payment was made using Gift Card.,order desk order cancel payment make use gift card,Negative
+ORD200991,Desk,Cancelled,I ordered a Desk and the order was Cancelled. Payment was made using Debit Card.,order desk order cancel payment make use debit card,Negative
+ORD200993,Monitor,Delivered,I ordered a Monitor and the order was Delivered. Payment was made using Gift Card.,order monitor order deliver payment make use gift card,Positive
+ORD200994,Tablet,Delivered,I ordered a Tablet and the order was Delivered. Payment was made using Debit Card.,order tablet order deliver payment make use debit card,Positive
+ORD200996,Monitor,Delivered,I ordered a Monitor and the order was Delivered. Payment was made using Debit Card.,order monitor order deliver payment make use debit card,Positive
+ORD200997,Laptop,Delivered,I ordered a Laptop and the order was Delivered. Payment was made using Cash.,order laptop order deliver payment make use cash,Positive
+ORD200998,Phone,Cancelled,I ordered a Phone and the order was Cancelled. Payment was made using Debit Card.,order phone order cancel payment make use debit card,Negative
+ORD201000,Printer,Delivered,I ordered a Printer and the order was Delivered. Payment was made using Online.,order printer order deliver payment make use online,Positive
+ORD201001,Printer,Shipped,I ordered a Printer and the order was Shipped. Payment was made using Gift Card.,order printer order ship payment make use gift card,Positive
+ORD201003,Printer,Shipped,I ordered a Printer and the order was Shipped. Payment was made using Cash.,order printer order ship payment make use cash,Positive
+ORD201005,Printer,Returned,I ordered a Printer and the order was Returned. Payment was made using Credit Card.,order printer order return payment make use credit card,Negative
+ORD201006,Tablet,Delivered,I ordered a Tablet and the order was Delivered. Payment was made using Cash.,order tablet order deliver payment make use cash,Positive
+ORD201008,Monitor,Delivered,I ordered a Monitor and the order was Delivered. Payment was made using Cash.,order monitor order deliver payment make use cash,Positive
+ORD201009,Tablet,Delivered,I ordered a Tablet and the order was Delivered. Payment was made using Credit Card.,order tablet order deliver payment make use credit card,Positive
+ORD201010,Monitor,Cancelled,I ordered a Monitor and the order was Cancelled. Payment was made using Credit Card.,order monitor order cancel payment make use credit card,Negative
+ORD201011,Phone,Shipped,I ordered a Phone and the order was Shipped. Payment was made using Online.,order phone order ship payment make use online,Positive
+ORD201012,Printer,Returned,I ordered a Printer and the order was Returned. Payment was made using Online.,order printer order return payment make use online,Negative
+ORD201013,Laptop,Cancelled,I ordered a Laptop and the order was Cancelled. Payment was made using Cash.,order laptop order cancel payment make use cash,Negative
+ORD201014,Tablet,Returned,I ordered a Tablet and the order was Returned. Payment was made using Debit Card.,order tablet order return payment make use debit card,Negative
+ORD201015,Printer,Shipped,I ordered a Printer and the order was Shipped. Payment was made using Online.,order printer order ship payment make use online,Positive
+ORD201016,Tablet,Delivered,I ordered a Tablet and the order was Delivered. Payment was made using Debit Card.,order tablet order deliver payment make use debit card,Positive
+ORD201017,Chair,Delivered,I ordered a Chair and the order was Delivered. Payment was made using Gift Card.,order chair order deliver payment make use gift card,Positive
+ORD201018,Laptop,Delivered,I ordered a Laptop and the order was Delivered. Payment was made using Cash.,order laptop order deliver payment make use cash,Positive
+ORD201019,Desk,Returned,I ordered a Desk and the order was Returned. Payment was made using Cash.,order desk order return payment make use cash,Negative
+ORD201020,Tablet,Delivered,I ordered a Tablet and the order was Delivered. Payment was made using Online.,order tablet order deliver payment make use online,Positive
+ORD201021,Phone,Cancelled,I ordered a Phone and the order was Cancelled. Payment was made using Credit Card.,order phone order cancel payment make use credit card,Negative
+ORD201022,Tablet,Shipped,I ordered a Tablet and the order was Shipped. Payment was made using Credit Card.,order tablet order ship payment make use credit card,Positive
+ORD201023,Laptop,Shipped,I ordered a Laptop and the order was Shipped. Payment was made using Cash.,order laptop order ship payment make use cash,Positive
+ORD201025,Chair,Delivered,I ordered a Chair and the order was Delivered. Payment was made using Gift Card.,order chair order deliver payment make use gift card,Positive
+ORD201026,Monitor,Delivered,I ordered a Monitor and the order was Delivered. Payment was made using Online.,order monitor order deliver payment make use online,Positive
+ORD201027,Laptop,Returned,I ordered a Laptop and the order was Returned. Payment was made using Cash.,order laptop order return payment make use cash,Negative
+ORD201028,Desk,Cancelled,I ordered a Desk and the order was Cancelled. Payment was made using Cash.,order desk order cancel payment make use cash,Negative
+ORD201029,Desk,Shipped,I ordered a Desk and the order was Shipped. Payment was made using Credit Card.,order desk order ship payment make use credit card,Positive
+ORD201030,Phone,Delivered,I ordered a Phone and the order was Delivered. Payment was made using Credit Card.,order phone order deliver payment make use credit card,Positive
+ORD201032,Chair,Delivered,I ordered a Chair and the order was Delivered. Payment was made using Online.,order chair order deliver payment make use online,Positive
+ORD201033,Monitor,Delivered,I ordered a Monitor and the order was Delivered. Payment was made using Gift Card.,order monitor order deliver payment make use gift card,Positive
+ORD201034,Printer,Cancelled,I ordered a Printer and the order was Cancelled. Payment was made using Cash.,order printer order cancel payment make use cash,Negative
+ORD201035,Laptop,Cancelled,I ordered a Laptop and the order was Cancelled. Payment was made using Cash.,order laptop order cancel payment make use cash,Negative
+ORD201036,Phone,Shipped,I ordered a Phone and the order was Shipped. Payment was made using Gift Card.,order phone order ship payment make use gift card,Positive
+ORD201038,Tablet,Returned,I ordered a Tablet and the order was Returned. Payment was made using Debit Card.,order tablet order return payment make use debit card,Negative
+ORD201039,Desk,Cancelled,I ordered a Desk and the order was Cancelled. Payment was made using Credit Card.,order desk order cancel payment make use credit card,Negative
+ORD201040,Tablet,Delivered,I ordered a Tablet and the order was Delivered. Payment was made using Debit Card.,order tablet order deliver payment make use debit card,Positive
+ORD201041,Monitor,Shipped,I ordered a Monitor and the order was Shipped. Payment was made using Gift Card.,order monitor order ship payment make use gift card,Positive
+ORD201042,Tablet,Shipped,I ordered a Tablet and the order was Shipped. Payment was made using Debit Card.,order tablet order ship payment make use debit card,Positive
+ORD201043,Tablet,Shipped,I ordered a Tablet and the order was Shipped. Payment was made using Gift Card.,order tablet order ship payment make use gift card,Positive
+ORD201044,Printer,Delivered,I ordered a Printer and the order was Delivered. Payment was made using Credit Card.,order printer order deliver payment make use credit card,Positive
+ORD201045,Laptop,Returned,I ordered a Laptop and the order was Returned. Payment was made using Gift Card.,order laptop order return payment make use gift card,Negative
+ORD201046,Tablet,Shipped,I ordered a Tablet and the order was Shipped. Payment was made using Online.,order tablet order ship payment make use online,Positive
+ORD201047,Chair,Shipped,I ordered a Chair and the order was Shipped. Payment was made using Gift Card.,order chair order ship payment make use gift card,Positive
+ORD201048,Monitor,Shipped,I ordered a Monitor and the order was Shipped. Payment was made using Debit Card.,order monitor order ship payment make use debit card,Positive
+ORD201049,Desk,Shipped,I ordered a Desk and the order was Shipped. Payment was made using Credit Card.,order desk order ship payment make use credit card,Positive
+ORD201050,Laptop,Returned,I ordered a Laptop and the order was Returned. Payment was made using Online.,order laptop order return payment make use online,Negative
+ORD201051,Monitor,Shipped,I ordered a Monitor and the order was Shipped. Payment was made using Gift Card.,order monitor order ship payment make use gift card,Positive
+ORD201052,Tablet,Shipped,I ordered a Tablet and the order was Shipped. Payment was made using Online.,order tablet order ship payment make use online,Positive
+ORD201054,Printer,Delivered,I ordered a Printer and the order was Delivered. Payment was made using Debit Card.,order printer order deliver payment make use debit card,Positive
+ORD201055,Monitor,Delivered,I ordered a Monitor and the order was Delivered. Payment was made using Debit Card.,order monitor order deliver payment make use debit card,Positive
+ORD201057,Laptop,Shipped,I ordered a Laptop and the order was Shipped. Payment was made using Debit Card.,order laptop order ship payment make use debit card,Positive
+ORD201058,Desk,Returned,I ordered a Desk and the order was Returned. Payment was made using Credit Card.,order desk order return payment make use credit card,Negative
+ORD201059,Desk,Returned,I ordered a Desk and the order was Returned. Payment was made using Credit Card.,order desk order return payment make use credit card,Negative
+ORD201060,Tablet,Shipped,I ordered a Tablet and the order was Shipped. Payment was made using Cash.,order tablet order ship payment make use cash,Positive
+ORD201061,Laptop,Shipped,I ordered a Laptop and the order was Shipped. Payment was made using Cash.,order laptop order ship payment make use cash,Positive
+ORD201062,Chair,Cancelled,I ordered a Chair and the order was Cancelled. Payment was made using Gift Card.,order chair order cancel payment make use gift card,Negative
+ORD201063,Desk,Shipped,I ordered a Desk and the order was Shipped. Payment was made using Credit Card.,order desk order ship payment make use credit card,Positive
+ORD201064,Laptop,Returned,I ordered a Laptop and the order was Returned. Payment was made using Cash.,order laptop order return payment make use cash,Negative
+ORD201065,Printer,Delivered,I ordered a Printer and the order was Delivered. Payment was made using Debit Card.,order printer order deliver payment make use debit card,Positive
+ORD201066,Desk,Cancelled,I ordered a Desk and the order was Cancelled. Payment was made using Debit Card.,order desk order cancel payment make use debit card,Negative
+ORD201067,Phone,Returned,I ordered a Phone and the order was Returned. Payment was made using Online.,order phone order return payment make use online,Negative
+ORD201068,Laptop,Shipped,I ordered a Laptop and the order was Shipped. Payment was made using Debit Card.,order laptop order ship payment make use debit card,Positive
+ORD201069,Monitor,Returned,I ordered a Monitor and the order was Returned. Payment was made using Gift Card.,order monitor order return payment make use gift card,Negative
+ORD201071,Phone,Shipped,I ordered a Phone and the order was Shipped. Payment was made using Cash.,order phone order ship payment make use cash,Positive
+ORD201072,Monitor,Cancelled,I ordered a Monitor and the order was Cancelled. Payment was made using Gift Card.,order monitor order cancel payment make use gift card,Negative
+ORD201073,Tablet,Returned,I ordered a Tablet and the order was Returned. Payment was made using Debit Card.,order tablet order return payment make use debit card,Negative
+ORD201074,Phone,Returned,I ordered a Phone and the order was Returned. Payment was made using Online.,order phone order return payment make use online,Negative
+ORD201075,Monitor,Delivered,I ordered a Monitor and the order was Delivered. Payment was made using Debit Card.,order monitor order deliver payment make use debit card,Positive
+ORD201076,Laptop,Shipped,I ordered a Laptop and the order was Shipped. Payment was made using Cash.,order laptop order ship payment make use cash,Positive
+ORD201077,Printer,Cancelled,I ordered a Printer and the order was Cancelled. Payment was made using Credit Card.,order printer order cancel payment make use credit card,Negative
+ORD201078,Desk,Returned,I ordered a Desk and the order was Returned. Payment was made using Online.,order desk order return payment make use online,Negative
+ORD201079,Phone,Delivered,I ordered a Phone and the order was Delivered. Payment was made using Gift Card.,order phone order deliver payment make use gift card,Positive
+ORD201080,Laptop,Delivered,I ordered a Laptop and the order was Delivered. Payment was made using Gift Card.,order laptop order deliver payment make use gift card,Positive
+ORD201083,Chair,Delivered,I ordered a Chair and the order was Delivered. Payment was made using Credit Card.,order chair order deliver payment make use credit card,Positive
+ORD201085,Printer,Shipped,I ordered a Printer and the order was Shipped. Payment was made using Debit Card.,order printer order ship payment make use debit card,Positive
+ORD201087,Laptop,Shipped,I ordered a Laptop and the order was Shipped. Payment was made using Online.,order laptop order ship payment make use online,Positive
+ORD201088,Desk,Shipped,I ordered a Desk and the order was Shipped. Payment was made using Gift Card.,order desk order ship payment make use gift card,Positive
+ORD201089,Tablet,Shipped,I ordered a Tablet and the order was Shipped. Payment was made using Gift Card.,order tablet order ship payment make use gift card,Positive
+ORD201090,Monitor,Returned,I ordered a Monitor and the order was Returned. Payment was made using Gift Card.,order monitor order return payment make use gift card,Negative
+ORD201092,Laptop,Delivered,I ordered a Laptop and the order was Delivered. Payment was made using Debit Card.,order laptop order deliver payment make use debit card,Positive
+ORD201093,Phone,Returned,I ordered a Phone and the order was Returned. Payment was made using Gift Card.,order phone order return payment make use gift card,Negative
+ORD201094,Printer,Shipped,I ordered a Printer and the order was Shipped. Payment was made using Credit Card.,order printer order ship payment make use credit card,Positive
+ORD201095,Phone,Delivered,I ordered a Phone and the order was Delivered. Payment was made using Online.,order phone order deliver payment make use online,Positive
+ORD201096,Tablet,Returned,I ordered a Tablet and the order was Returned. Payment was made using Debit Card.,order tablet order return payment make use debit card,Negative
+ORD201097,Monitor,Shipped,I ordered a Monitor and the order was Shipped. Payment was made using Gift Card.,order monitor order ship payment make use gift card,Positive
+ORD201098,Monitor,Delivered,I ordered a Monitor and the order was Delivered. Payment was made using Credit Card.,order monitor order deliver payment make use credit card,Positive
+ORD201099,Laptop,Cancelled,I ordered a Laptop and the order was Cancelled. Payment was made using Cash.,order laptop order cancel payment make use cash,Negative
+ORD201100,Laptop,Cancelled,I ordered a Laptop and the order was Cancelled. Payment was made using Debit Card.,order laptop order cancel payment make use debit card,Negative
+ORD201102,Chair,Shipped,I ordered a Chair and the order was Shipped. Payment was made using Debit Card.,order chair order ship payment make use debit card,Positive
+ORD201103,Laptop,Delivered,I ordered a Laptop and the order was Delivered. Payment was made using Online.,order laptop order deliver payment make use online,Positive
+ORD201104,Tablet,Shipped,I ordered a Tablet and the order was Shipped. Payment was made using Online.,order tablet order ship payment make use online,Positive
+ORD201105,Tablet,Cancelled,I ordered a Tablet and the order was Cancelled. Payment was made using Gift Card.,order tablet order cancel payment make use gift card,Negative
+ORD201106,Chair,Cancelled,I ordered a Chair and the order was Cancelled. Payment was made using Cash.,order chair order cancel payment make use cash,Negative
+ORD201107,Tablet,Cancelled,I ordered a Tablet and the order was Cancelled. Payment was made using Online.,order tablet order cancel payment make use online,Negative
+ORD201108,Laptop,Cancelled,I ordered a Laptop and the order was Cancelled. Payment was made using Online.,order laptop order cancel payment make use online,Negative
+ORD201109,Printer,Returned,I ordered a Printer and the order was Returned. Payment was made using Gift Card.,order printer order return payment make use gift card,Negative
+ORD201110,Chair,Shipped,I ordered a Chair and the order was Shipped. Payment was made using Credit Card.,order chair order ship payment make use credit card,Positive
+ORD201111,Monitor,Cancelled,I ordered a Monitor and the order was Cancelled. Payment was made using Online.,order monitor order cancel payment make use online,Negative
+ORD201112,Desk,Delivered,I ordered a Desk and the order was Delivered. Payment was made using Online.,order desk order deliver payment make use online,Positive
+ORD201113,Desk,Delivered,I ordered a Desk and the order was Delivered. Payment was made using Cash.,order desk order deliver payment make use cash,Positive
+ORD201114,Tablet,Cancelled,I ordered a Tablet and the order was Cancelled. Payment was made using Gift Card.,order tablet order cancel payment make use gift card,Negative
+ORD201115,Laptop,Returned,I ordered a Laptop and the order was Returned. Payment was made using Online.,order laptop order return payment make use online,Negative
+ORD201116,Printer,Delivered,I ordered a Printer and the order was Delivered. Payment was made using Credit Card.,order printer order deliver payment make use credit card,Positive
+ORD201117,Chair,Shipped,I ordered a Chair and the order was Shipped. Payment was made using Gift Card.,order chair order ship payment make use gift card,Positive
+ORD201118,Phone,Returned,I ordered a Phone and the order was Returned. Payment was made using Credit Card.,order phone order return payment make use credit card,Negative
+ORD201119,Laptop,Delivered,I ordered a Laptop and the order was Delivered. Payment was made using Credit Card.,order laptop order deliver payment make use credit card,Positive
+ORD201121,Phone,Returned,I ordered a Phone and the order was Returned. Payment was made using Gift Card.,order phone order return payment make use gift card,Negative
+ORD201122,Monitor,Returned,I ordered a Monitor and the order was Returned. Payment was made using Online.,order monitor order return payment make use online,Negative
+ORD201123,Tablet,Shipped,I ordered a Tablet and the order was Shipped. Payment was made using Debit Card.,order tablet order ship payment make use debit card,Positive
+ORD201124,Chair,Returned,I ordered a Chair and the order was Returned. Payment was made using Gift Card.,order chair order return payment make use gift card,Negative
+ORD201125,Desk,Cancelled,I ordered a Desk and the order was Cancelled. Payment was made using Gift Card.,order desk order cancel payment make use gift card,Negative
+ORD201126,Phone,Delivered,I ordered a Phone and the order was Delivered. Payment was made using Cash.,order phone order deliver payment make use cash,Positive
+ORD201127,Printer,Shipped,I ordered a Printer and the order was Shipped. Payment was made using Credit Card.,order printer order ship payment make use credit card,Positive
+ORD201128,Monitor,Cancelled,I ordered a Monitor and the order was Cancelled. Payment was made using Cash.,order monitor order cancel payment make use cash,Negative
+ORD201130,Laptop,Returned,I ordered a Laptop and the order was Returned. Payment was made using Credit Card.,order laptop order return payment make use credit card,Negative
+ORD201132,Chair,Cancelled,I ordered a Chair and the order was Cancelled. Payment was made using Credit Card.,order chair order cancel payment make use credit card,Negative
+ORD201133,Printer,Returned,I ordered a Printer and the order was Returned. Payment was made using Gift Card.,order printer order return payment make use gift card,Negative
+ORD201134,Desk,Cancelled,I ordered a Desk and the order was Cancelled. Payment was made using Debit Card.,order desk order cancel payment make use debit card,Negative
+ORD201135,Printer,Shipped,I ordered a Printer and the order was Shipped. Payment was made using Online.,order printer order ship payment make use online,Positive
+ORD201139,Chair,Cancelled,I ordered a Chair and the order was Cancelled. Payment was made using Gift Card.,order chair order cancel payment make use gift card,Negative
+ORD201140,Printer,Cancelled,I ordered a Printer and the order was Cancelled. Payment was made using Credit Card.,order printer order cancel payment make use credit card,Negative
+ORD201141,Chair,Cancelled,I ordered a Chair and the order was Cancelled. Payment was made using Cash.,order chair order cancel payment make use cash,Negative
+ORD201142,Phone,Returned,I ordered a Phone and the order was Returned. Payment was made using Debit Card.,order phone order return payment make use debit card,Negative
+ORD201144,Desk,Cancelled,I ordered a Desk and the order was Cancelled. Payment was made using Online.,order desk order cancel payment make use online,Negative
+ORD201145,Desk,Delivered,I ordered a Desk and the order was Delivered. Payment was made using Debit Card.,order desk order deliver payment make use debit card,Positive
+ORD201148,Phone,Returned,I ordered a Phone and the order was Returned. Payment was made using Cash.,order phone order return payment make use cash,Negative
+ORD201150,Desk,Cancelled,I ordered a Desk and the order was Cancelled. Payment was made using Credit Card.,order desk order cancel payment make use credit card,Negative
+ORD201151,Chair,Cancelled,I ordered a Chair and the order was Cancelled. Payment was made using Cash.,order chair order cancel payment make use cash,Negative
+ORD201152,Tablet,Shipped,I ordered a Tablet and the order was Shipped. Payment was made using Credit Card.,order tablet order ship payment make use credit card,Positive
+ORD201153,Monitor,Shipped,I ordered a Monitor and the order was Shipped. Payment was made using Debit Card.,order monitor order ship payment make use debit card,Positive
+ORD201155,Printer,Delivered,I ordered a Printer and the order was Delivered. Payment was made using Credit Card.,order printer order deliver payment make use credit card,Positive
+ORD201156,Laptop,Shipped,I ordered a Laptop and the order was Shipped. Payment was made using Credit Card.,order laptop order ship payment make use credit card,Positive
+ORD201157,Monitor,Delivered,I ordered a Monitor and the order was Delivered. Payment was made using Debit Card.,order monitor order deliver payment make use debit card,Positive
+ORD201159,Desk,Returned,I ordered a Desk and the order was Returned. Payment was made using Debit Card.,order desk order return payment make use debit card,Negative
+ORD201160,Desk,Shipped,I ordered a Desk and the order was Shipped. Payment was made using Debit Card.,order desk order ship payment make use debit card,Positive
+ORD201161,Phone,Cancelled,I ordered a Phone and the order was Cancelled. Payment was made using Cash.,order phone order cancel payment make use cash,Negative
+ORD201162,Phone,Delivered,I ordered a Phone and the order was Delivered. Payment was made using Debit Card.,order phone order deliver payment make use debit card,Positive
+ORD201163,Laptop,Returned,I ordered a Laptop and the order was Returned. Payment was made using Credit Card.,order laptop order return payment make use credit card,Negative
+ORD201164,Tablet,Delivered,I ordered a Tablet and the order was Delivered. Payment was made using Debit Card.,order tablet order deliver payment make use debit card,Positive
+ORD201166,Chair,Delivered,I ordered a Chair and the order was Delivered. Payment was made using Cash.,order chair order deliver payment make use cash,Positive
+ORD201168,Laptop,Delivered,I ordered a Laptop and the order was Delivered. Payment was made using Credit Card.,order laptop order deliver payment make use credit card,Positive
+ORD201169,Chair,Cancelled,I ordered a Chair and the order was Cancelled. Payment was made using Cash.,order chair order cancel payment make use cash,Negative
+ORD201170,Printer,Returned,I ordered a Printer and the order was Returned. Payment was made using Cash.,order printer order return payment make use cash,Negative
+ORD201171,Phone,Delivered,I ordered a Phone and the order was Delivered. Payment was made using Credit Card.,order phone order deliver payment make use credit card,Positive
+ORD201173,Monitor,Shipped,I ordered a Monitor and the order was Shipped. Payment was made using Online.,order monitor order ship payment make use online,Positive
+ORD201174,Printer,Returned,I ordered a Printer and the order was Returned. Payment was made using Credit Card.,order printer order return payment make use credit card,Negative
+ORD201175,Printer,Returned,I ordered a Printer and the order was Returned. Payment was made using Debit Card.,order printer order return payment make use debit card,Negative
+ORD201176,Tablet,Cancelled,I ordered a Tablet and the order was Cancelled. Payment was made using Debit Card.,order tablet order cancel payment make use debit card,Negative
+ORD201177,Printer,Shipped,I ordered a Printer and the order was Shipped. Payment was made using Cash.,order printer order ship payment make use cash,Positive
+ORD201178,Monitor,Cancelled,I ordered a Monitor and the order was Cancelled. Payment was made using Credit Card.,order monitor order cancel payment make use credit card,Negative
+ORD201179,Laptop,Cancelled,I ordered a Laptop and the order was Cancelled. Payment was made using Credit Card.,order laptop order cancel payment make use credit card,Negative
+ORD201182,Chair,Returned,I ordered a Chair and the order was Returned. Payment was made using Gift Card.,order chair order return payment make use gift card,Negative
+ORD201183,Desk,Shipped,I ordered a Desk and the order was Shipped. Payment was made using Gift Card.,order desk order ship payment make use gift card,Positive
+ORD201184,Laptop,Returned,I ordered a Laptop and the order was Returned. Payment was made using Gift Card.,order laptop order return payment make use gift card,Negative
+ORD201185,Chair,Returned,I ordered a Chair and the order was Returned. Payment was made using Gift Card.,order chair order return payment make use gift card,Negative
+ORD201186,Monitor,Shipped,I ordered a Monitor and the order was Shipped. Payment was made using Cash.,order monitor order ship payment make use cash,Positive
+ORD201187,Desk,Delivered,I ordered a Desk and the order was Delivered. Payment was made using Gift Card.,order desk order deliver payment make use gift card,Positive
+ORD201188,Printer,Shipped,I ordered a Printer and the order was Shipped. Payment was made using Gift Card.,order printer order ship payment make use gift card,Positive
+ORD201189,Tablet,Cancelled,I ordered a Tablet and the order was Cancelled. Payment was made using Cash.,order tablet order cancel payment make use cash,Negative
+ORD201190,Desk,Shipped,I ordered a Desk and the order was Shipped. Payment was made using Credit Card.,order desk order ship payment make use credit card,Positive
+ORD201193,Tablet,Returned,I ordered a Tablet and the order was Returned. Payment was made using Cash.,order tablet order return payment make use cash,Negative
+ORD201195,Desk,Cancelled,I ordered a Desk and the order was Cancelled. Payment was made using Credit Card.,order desk order cancel payment make use credit card,Negative
+ORD201196,Monitor,Cancelled,I ordered a Monitor and the order was Cancelled. Payment was made using Online.,order monitor order cancel payment make use online,Negative
+ORD201197,Tablet,Delivered,I ordered a Tablet and the order was Delivered. Payment was made using Online.,order tablet order deliver payment make use online,Positive
+ORD201198,Chair,Cancelled,I ordered a Chair and the order was Cancelled. Payment was made using Debit Card.,order chair order cancel payment make use debit card,Negative
+ORD201199,Tablet,Returned,I ordered a Tablet and the order was Returned. Payment was made using Gift Card.,order tablet order return payment make use gift card,Negative
